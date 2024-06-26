@@ -1,0 +1,679 @@
+<table width="98%" border="0" cellspacing="0" cellpadding="5"><tr><td colspan="2" style="text-align: center; font-family: verdana; font-size: 9pt;"><b>ITU-T Recommendations report</b></td></tr><tr><td width="10%" style="font-family: verdana; font-size: 8pt;"><i>Record(s) found:</i></td><td style="text-align: left; font-family: verdana; font-size: 8pt;">336</td></tr><tr><td colspan="2" style="font-family: verdana; font-size: 8pt;"><i>Report generated at 2024-06-26 02:28:15Z</i></td></tr></table><br/><div>
+	<table cellspacing="0" cellpadding="6" rules="all" border="1" id="ctl00_content_result_grd_result" style="background-color:White;border-color:LightGrey;border-width:1px;border-style:Solid;font-family:Verdana;font-size:8pt;width:750px;border-collapse:collapse;">
+		<tr style="background-color:#F1F1F1;">
+			<th align="center" scope="col" style="color:Blue;font-weight:normal;">Rec.</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Title</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Status</th>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15806" title="See more details">J.1 (01/2024)</a></nobr></td><td>Terms, definitions and acronyms for television and sound transmission and integrated broadband cable networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4737" title="See more details">J.2 (09/1999)</a></nobr></td><td>Guidelines on the use of some ITU-T Recommendations in the J series</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1330" title="See more details">J.11 (11/1988)</a></nobr></td><td>Hypothetical reference circuits for sound-programme transmissions</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1331" title="See more details">J.12 (11/1988)</a></nobr></td><td>Types of sound-programme circuits established over the international telephone network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1332" title="See more details">J.13 (11/1988)</a></nobr></td><td>Definitions for international sound-programme circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1333" title="See more details">J.14 (11/1988)</a></nobr></td><td>Relative levels and impedances on an international sound-programme connection</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1334" title="See more details">J.15 (11/1988)</a></nobr></td><td>Lining-up and monitoring an international sound-programme connection</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1335" title="See more details">J.16 (11/1988)</a></nobr></td><td>Measurement of weighted noise in sound-programme circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1336" title="See more details">J.17 (11/1988)</a></nobr></td><td>Pre-emphasis used on sound-programme circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1337" title="See more details">J.18 (11/1988)</a></nobr></td><td>Crosstalk in sound-programme circuits set up on carrier systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1338" title="See more details">J.19 (11/1988)</a></nobr></td><td>A conventional test signal simulating sound-programme signals for measuring interference in other channels</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1340" title="See more details">J.21 (08/1994)</a></nobr></td><td>Performance characteristics of 15 kHz-type sound-programme circuits – Circuits for high quality monophonic and stereophonic transmissions</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1342" title="See more details">J.23 (11/1988)</a></nobr></td><td>Performance characteristics of 7 kHz type (narrow bandwidth) sound-programme circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3589" title="See more details">J.24 (03/1993)</a></nobr></td><td>Modulation of signals carried by sound-programme circuits by interfering signals from power supply sources</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3590" title="See more details">J.25 (03/1993)</a></nobr></td><td>Estimation of transmission performance of sound-programme circuits shorter or longer than the hypothetical reference circuit</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3591" title="See more details">J.26 (03/1993)</a></nobr></td><td>Test signals to be used on international sound-programme connections</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3592" title="See more details">J.27 (03/1993)</a></nobr></td><td>Signals for the alignment of international sound-programme connections</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1347" title="See more details">J.41 (11/1988)</a></nobr></td><td>Characteristics of equipment for the coding of analogue high quality sound programme signals for transmission on 384 kbit/s channels</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1348" title="See more details">J.42 (11/1988)</a></nobr></td><td>Characteristics of equipment for the coding of analogue medium quality sound-programme signals for transmission on 384-kbit/s channels</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1351" title="See more details">J.51 (08/1994)</a></nobr></td><td>General principles and user requirements for the digital transmission of high quality sound programmes</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3365" title="See more details">J.52 (07/1996)</a></nobr></td><td>Digital transmission of high-quality sound-programme signals using one, two or three 64 kbit/s channels per mono signal (and up to six per stereo signal)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5133" title="See more details">J.52 (1996) Amd. 1 (09/1999)</a></nobr></td><td>New Appendix II – Extracts from EBU specification of an ISDN Codec capable of delivering high-quality audio</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5066" title="See more details">J.53 (05/2000)</a></nobr></td><td>Sampling frequencies to be used for the digital transmission of studio-quality and high-quality sound-programme signals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3594" title="See more details">J.54 (03/1993)</a></nobr></td><td>Transmission of analogue high-quality sound-programme signals on mixed analogue-and-digital circuits using 384 kbit/s channels</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3595" title="See more details">J.55 (03/1993)</a></nobr></td><td>Digital transmission of high-quality sound-programme signals on distribution circuits using 480 kbit/s (496 kbit/s) per audio channel</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3597" title="See more details">J.57 (03/1993)</a></nobr></td><td>Transmission of digital studio quality sound signals over H1 channels</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3603" title="See more details">J.61 (11/1988)</a></nobr></td><td>Transmission performance of television circuits designed for use in international connections</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8927" title="See more details">J.61 (1988) Amd. 1 (06/2007)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1354" title="See more details">J.62 (11/1988)</a></nobr></td><td>Single value of the signal-to-noise ratio for all television systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1355" title="See more details">J.63 (11/1988)</a></nobr></td><td>Insertion of test signals in the field-blanking interval of monochrome and colour television signals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1356" title="See more details">J.64 (11/1988)</a></nobr></td><td>Definitions of parameters for simplified automatic measurement of television insertion test signals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1357" title="See more details">J.65 (11/1988)</a></nobr></td><td>Standard test signal for conventional loading of a television channel</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1358" title="See more details">J.66 (11/1988)</a></nobr></td><td>Transmission of one sound programme associated with analogue television signal by means of time division multiplex in the line synchronizing pulse</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5375" title="See more details">J.67 (03/2001)</a></nobr></td><td>Test signals and measurement techniques for transmission circuits carrying  MAC/packet signals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3598" title="See more details">J.68 (03/1993)</a></nobr></td><td>Hypothetical reference chain for television transmissions over very long distances</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1364" title="See more details">J.80 (09/1993)</a></nobr></td><td>Transmission of component-coded digital television signals for contribution-quality applications at bit rates near 140 Mbit/s</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1365" title="See more details">J.81 (09/1993)</a></nobr></td><td>Transmission of component-coded digital television signals for contribution-quality applications at the third hierarchical level of ITU-T Recommendation G.702</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3209" title="See more details">J.81 (1993) Amd. 1 (10/1995)</a></nobr></td><td>Appendix II to Annex A to Recommendation J.81 – Guidelines for implementation of a complete television codec</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3913" title="See more details">J.81 (1993) Cor. 1 (10/1996)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4342" title="See more details">J.81 (1993) Amd. 2 (03/1998)</a></nobr></td><td>Appendix IV to Annex A – Results of 34 Mbit/s codec interworking tests (February 1996)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3208" title="See more details">J.82 (07/1996)</a></nobr></td><td>Transport of MPEG-2 constant bit rate television signals in B-ISDN</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9301" title="See more details">J.83 (12/2007)</a></nobr></td><td>Digital multi-programme systems for television, sound and data services for cable distribution</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5376" title="See more details">J.84 (03/2001)</a></nobr></td><td>Distribution of digital multi-programme signals for television, sound and data services through SMATV networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3599" title="See more details">J.85 (03/1993)</a></nobr></td><td>Digital television transmission over long distances – General principles</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3600" title="See more details">J.86 (03/1993)</a></nobr></td><td>Mixed analogue-and-digital transmission of analogue composite television signals over long distances</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5067" title="See more details">J.87 (03/2001)</a></nobr></td><td>Use of hybrid cable television links for the secondary distribution of television into the user's premises</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4738" title="See more details">J.88 (09/1999)</a></nobr></td><td>Transmission of enhanced definition television signals over digital links</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4739" title="See more details">J.89 (09/1999)</a></nobr></td><td>Transport Mechanism for component-coded digital television signals using MPEG-2 4:2:2 P@ML including all service elements for contribution and primary distribution</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5068" title="See more details">J.90 (05/2000)</a></nobr></td><td>Electronic programme guides for delivery by digital cable television and similar methods – Reference operating scenario and requirements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1368" title="See more details">J.91 (08/1994)</a></nobr></td><td>Technical methods for ensuring privacy in long-distance international television transmission</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4015" title="See more details">J.92 (04/1997)</a></nobr></td><td>Recommended operating guidelines for point-to-point transmission of television programmes</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4345" title="See more details">J.93 (03/1998)</a></nobr></td><td>Requirements for conditional access in the secondary distribution of digital television on cable television systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13048" title="See more details">J.94 (10/2016)</a></nobr></td><td>Service information for digital broadcasting in cable television systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4740" title="See more details">J.95 (09/1999)</a></nobr></td><td>Copy protection of intellectual property for content delivered on cable television systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6102" title="See more details">J.96 (07/2002)</a></nobr></td><td>Technical method for ensuring privacy in long-distance international MPEG-2 television transmission conforming to ITU-T Recommendation J.89</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6103" title="See more details">J.97 (07/2002)</a></nobr></td><td>Metadata on cable networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6322" title="See more details">J.98 (05/2003)</a></nobr></td><td>Metadata requirements for video-on-demand in cable networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3601" title="See more details">J.100 (03/1993)</a></nobr></td><td>Tolerances for transmission time differences between the vision and sound components of a television signal</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3602" title="See more details">J.101 (03/1993)</a></nobr></td><td>Measurement methods and test procedures for teletext signals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3916" title="See more details">J.110 (04/1997)</a></nobr></td><td>Basic principles for a worldwide common family of systems for the provision of interactive television services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4347" title="See more details">J.111 (03/1998)</a></nobr></td><td>Network independent protocols for interactive systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4348" title="See more details">J.112 (03/1998)</a></nobr></td><td>Transmission systems for interactive cable television services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5379" title="See more details">J.112 Annex A (03/2001)</a></nobr></td><td>Digital Video Broadcasting: DVB interaction channel for Cable TV (CATV) distribution systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5652" title="See more details">J.112 Annex C (02/2002)</a></nobr></td><td>Data-over-cable service interface specifications: Radio-frequency interface specification using QAM technique</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7193" title="See more details">J.112 Annex B (03/2004)</a></nobr></td><td>Data-over-cable service interface specifications: Radio-frequency interface specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4349" title="See more details">J.113 (03/1998)</a></nobr></td><td>Digital video broadcasting interaction channel through the PSTN/ISDN</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4741" title="See more details">J.114 (09/1999)</a></nobr></td><td>Interaction channel using digital enhanced cordless telecommunications</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4742" title="See more details">J.115 (09/1999)</a></nobr></td><td>Interaction channel using the global system for mobile communications</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4743" title="See more details">J.116 (05/2000)</a></nobr></td><td>Interaction channel for local multipoint distribution systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4744" title="See more details">J.117 (09/1999)</a></nobr></td><td>Home digital network interface specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5069" title="See more details">J.118 (05/2000)</a></nobr></td><td>Access systems for interactive services on SMATV/MATV networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5070" title="See more details">J.120 (05/2000)</a></nobr></td><td>Distribution of sound and television programs over the IP network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5653" title="See more details">J.121 (02/2002)</a></nobr></td><td>Quality control protocol for webcasting</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9302" title="See more details">J.122 (12/2007)</a></nobr></td><td>Second-generation transmission systems for interactive cable television services – IP cable modems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6104" title="See more details">J.123 (07/2002)</a></nobr></td><td>Multiplexing format for webcasting on the TCP/IP network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7194" title="See more details">J.124 (03/2004)</a></nobr></td><td>Multiplexing format for multimedia webcasting over TCP/IP networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9303" title="See more details">J.125 (12/2007)</a></nobr></td><td>Link privacy for cable modem implementations</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9304" title="See more details">J.126 (12/2007)</a></nobr></td><td>Embedded Cable Modem device specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7378" title="See more details">J.127 (06/2004)</a></nobr></td><td>Transmission protocol for multimedia webcasting over TCP/IP networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9582" title="See more details">J.128 (10/2008)</a></nobr></td><td>Set-top gateway specification for transmission systems for interactive cable television services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4350" title="See more details">J.131 (03/1998)</a></nobr></td><td>Transport of MPEG-2 signals in PDH networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4351" title="See more details">J.132 (03/1998)</a></nobr></td><td>Transport of MPEG-2 signals in SDH networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6105" title="See more details">J.133 (07/2002)</a></nobr></td><td>Measurement of MPEG-2 transport streams in networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4352" title="See more details">J.140 (03/1998)</a></nobr></td><td>Subjective picture quality assessment for digital cable television systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4745" title="See more details">J.141 (09/1999)</a></nobr></td><td>Performance indicators for data services delivered over digital cable television systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4746" title="See more details">J.142 (05/2000)</a></nobr></td><td>Methods for the measurement of parameters in the transmission of digital cable television signals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5071" title="See more details">J.143 (05/2000)</a></nobr></td><td>User requirements for objective perceptual video quality measurements in digital cable television</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7197" title="See more details">J.144 (03/2004)</a></nobr></td><td>Objective perceptual video quality measurement techniques for digital cable television in the presence of a full reference</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5381" title="See more details">J.145 (03/2001)</a></nobr></td><td>Measurement and control of the quality of service for sound transmission over contribution and distribution networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6106" title="See more details">J.146 (07/2002)</a></nobr></td><td>Loop latency issues in contribution circuits for conversational TV programmes</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6107" title="See more details">J.147 (07/2002)</a></nobr></td><td>Objective picture quality measurement method by use of in-service test signals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6323" title="See more details">J.148 (05/2003)</a></nobr></td><td>Requirements for an objective perceptual multimedia quality model</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7198" title="See more details">J.149 (03/2004)</a></nobr></td><td>Method for specifying accuracy and cross-calibration of Video Quality Metrics (VQM)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4353" title="See more details">J.150 (03/1998)</a></nobr></td><td>Operational functionalities for the delivery of digital multiprogramme television, sound and data services through multichannel, multipoint distribution systems (MMDS)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4747" title="See more details">J.150 (1998) Amd. 1 (09/1999)</a></nobr></td><td>Additions to Recommendation J.150 to also encompass local multipoint distribution systems (LMDS)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5382" title="See more details">J.150 (1998) Amd. 2 (03/2001)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5168" title="See more details">J.151 (10/2000)</a></nobr></td><td>RF remodulator interface for digital television</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15579" title="See more details">J.152 (07/2023)</a></nobr></td><td>Requirements for cable television services to use IMT-2020 radio systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8653" title="See more details">J.160 (11/2005)</a></nobr></td><td>Architectural framework for the delivery of time-critical services over cable television networks using cable modems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8929" title="See more details">J.161 (06/2007)</a></nobr></td><td>Audio and video codec requirements and usage for the provision of bidirectional audio services over cable television networks using cable modems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9305" title="See more details">J.162 (12/2007)</a></nobr></td><td>Network call signalling protocol for the delivery of time-critical services over cable television networks using cable modems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9306" title="See more details">J.163 (12/2007)</a></nobr></td><td>Dynamic quality of service for the provision of real-time services over cable television networks using cable modems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9307" title="See more details">J.164 (12/2007)</a></nobr></td><td>Event message requirements for the support of real-time services over cable television networks using cable modems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9308" title="See more details">J.166 (12/2007)</a></nobr></td><td>IPCablecom Management Information Base (MIB) framework</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9309" title="See more details">J.167 (12/2007)</a></nobr></td><td>Media terminal adapter (MTA) device provisioning requirements for the delivery of real-time services over cable television networks using cable modems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8659" title="See more details">J.170 (11/2005)</a></nobr></td><td>IPCablecom security specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8650" title="See more details">J.171.0 (11/2005)</a></nobr></td><td>IPCablecom trunking gateway control protocol (TGCP): Profiles overview</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8651" title="See more details">J.171.1 (11/2005)</a></nobr></td><td>IPCablecom trunking gateway control protocol (TGCP): Profile 1</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8652" title="See more details">J.171.2 (11/2005)</a></nobr></td><td>IPCablecom trunking gateway control protocol (TGCP): Profile 2</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8660" title="See more details">J.172 (11/2005)</a></nobr></td><td>IPCablecom management event mechanism</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8661" title="See more details">J.173 (11/2005)</a></nobr></td><td>IPCablecom embedded MTA primary line support</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8662" title="See more details">J.175 (11/2005)</a></nobr></td><td>Audio server protocol</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8663" title="See more details">J.177 (11/2005)</a></nobr></td><td>IPCablecom CMS subscriber provisioning specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8664" title="See more details">J.178 (11/2005)</a></nobr></td><td>IPCablecom CMS to CMS signalling</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8665" title="See more details">J.179 (11/2005)</a></nobr></td><td>IPCablecom support for multimedia</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5072" title="See more details">J.180 (05/2000)</a></nobr></td><td>User requirements for statistical multiplexing of several programmes on a transmission channel</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12102" title="See more details">J.181 (01/2014)</a></nobr></td><td>Digital program insertion cueing message for cable television systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12351" title="See more details">J.181 (2014) Amd. 1 (09/2014)</a></nobr></td><td>New Appendix II: Recommended practices for the implementation of ITU-T J.181</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5390" title="See more details">J.182 (03/2001)</a></nobr></td><td>Parameter sets for analogue interface specifications for the interconnection of set-top boxes and presentation devices in the home</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12766" title="See more details">J.183 (03/2016)</a></nobr></td><td>Time-division multiplexing of multiple MPEG-2 transport streams and generic formats of transport streams over cable television systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5397" title="See more details">J.184 (03/2001)</a></nobr></td><td>Digital broadband delivery system: Out-of-band transport</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11647" title="See more details">J.185 (06/2012)</a></nobr></td><td>Transmission equipment for transferring multi-channel television signals over optical access networks by frequency modulation conversion</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9492" title="See more details">J.186 (06/2008)</a></nobr></td><td>Transmission equipment for multi-channel television signals over optical access networks by sub-carrier multiplexing (SCM)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6116" title="See more details">J.187 (07/2002)</a></nobr></td><td>Transport mechanism for component-coded digital high-definition television signals using MPEG-2 video coding including all service elements for contribution and primary distribution</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6356" title="See more details">J.187 (2002) Cor. 1 (04/2003)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6110" title="See more details">J.188 (07/2002)</a></nobr></td><td>A framework for an efficient parallel video transmission system including codecs with functions of failure detection and picture quality evaluation</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6111" title="See more details">J.189 (07/2002)</a></nobr></td><td>Seamless splicing for MPEG-2 bit streams</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6357" title="See more details">J.189 (2002) Cor. 1 (04/2003)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9203" title="See more details">J.190 (07/2007)</a></nobr></td><td>Architecture of MediaHomeNet</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7202" title="See more details">J.191 (03/2004)</a></nobr></td><td>IP feature package to enhance cable modems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8666" title="See more details">J.192 (11/2005)</a></nobr></td><td>A residential gateway to support the delivery of cable data services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7380" title="See more details">J.193 (06/2004)</a></nobr></td><td>Requirements for the next generation of set-top-boxes</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15879" title="See more details">J.195.1 (03/2024)</a></nobr></td><td>Functional requirements for first-generation HiNOC</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15880" title="See more details">J.195.2 (03/2024)</a></nobr></td><td>Physical layer specification for first-generation HiNoC</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15881" title="See more details">J.195.3 (03/2024)</a></nobr></td><td>MAC layer specification for first-generation HiNoC</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12767" title="See more details">J.196.1 (03/2016)</a></nobr></td><td>Functional requirements for second-generation HiNoC</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15882" title="See more details">J.196.2 (03/2024)</a></nobr></td><td>Physical layer specification for second-generation HiNoC</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15883" title="See more details">J.196.3 (03/2024)</a></nobr></td><td>MAC layer specification for second-generation HiNoC</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8647" title="See more details">J.197 (11/2005)</a></nobr></td><td>High level requirements for a Digital Rights Management (DRM) bridge from a cable access network to a home network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14838" title="See more details">J.198.1 (01/2022)</a></nobr></td><td>Functional requirements for third-generation HiNoC</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15800" title="See more details">J.198.2 (01/2024)</a></nobr></td><td>Physical layer specification for third-generation HiNoC</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15801" title="See more details">J.198.3 (01/2024)</a></nobr></td><td>MAC layer specification for third-generation HiNoC</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8930" title="See more details">J.199 (11/2006)</a></nobr></td><td>Battery backup for cable-based devices</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10827" title="See more details">J.200 (04/2010)</a></nobr></td><td>Worldwide common core – Application environment for digital interactive television services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12313" title="See more details">J.201 (10/2014)</a></nobr></td><td>Harmonization of declarative content format for interactive television applications</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10840" title="See more details">J.202 (08/2010)</a></nobr></td><td>Harmonization of procedural content formats for interactive TV applications</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9493" title="See more details">J.203 (06/2008)</a></nobr></td><td>Common core for digital video recorder platform</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9494" title="See more details">J.204 (06/2008)</a></nobr></td><td>Metrics gathering specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11474" title="See more details">J.205 (01/2012)</a></nobr></td><td>Requirements for an application control framework using integrated broadcast and broadband digital television</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11858" title="See more details">J.205 (2012) Cor. 1 (01/2013)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12329" title="See more details">J.205 (2012) Cor. 2 (10/2014)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11880" title="See more details">J.206 (03/2013)</a></nobr></td><td>Architecture for an application control framework using integrated broadcast and broadband digital television</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13968" title="See more details">J.207 (07/2019)</a></nobr></td><td>Specification for an integrated broadcast and broadband digital television application control framework</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14584" title="See more details">J.208 (01/2021)</a></nobr></td><td>Harmonization of integrated broadcast-broadband ditial television application control framework</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8932" title="See more details">J.210 (11/2006)</a></nobr></td><td>Downstream RF interface for cable modem termination systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8933" title="See more details">J.211 (11/2006)</a></nobr></td><td>Timing interface for cable modem termination systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8934" title="See more details">J.212 (11/2006)</a></nobr></td><td>Downstream external Physical layer interface for modular cable modem termination systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8935" title="See more details">J.213 (11/2006)</a></nobr></td><td>Layer 2 virtual private networks for IP cable modem systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9196" title="See more details">J.214 (07/2007)</a></nobr></td><td>Cable modem TDM emulation interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9311" title="See more details">J.215 (12/2007)</a></nobr></td><td>Client digital program insertion API</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14276" title="See more details">J.216 (05/2020)</a></nobr></td><td>Second-generation modular headend architecture in systems for interactive cable television services - IP cable modems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9197" title="See more details">J.218 (07/2007)</a></nobr></td><td>Cable modem IPv4 and IPv6 eRouter specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9312" title="See more details">J.222.0 (12/2007)</a></nobr></td><td>Third-generation transmission systems for interactive cable television services – IP cable modems: Overview</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9194" title="See more details">J.222.1 (07/2007)</a></nobr></td><td>Third-generation transmission systems for interactive cable television services – IP cable modems: Physical layer specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9195" title="See more details">J.222.2 (07/2007)</a></nobr></td><td>Third-generation transmission systems for interactive cable television services – IP cable modems: MAC and Upper Layer protocols</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9205" title="See more details">J.222.3 (11/2007)</a></nobr></td><td>Third-generation transmission systems for interactive cable television services – IP cable modems: Security services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12769" title="See more details">J.223.1 (03/2016)</a></nobr></td><td>Functional requirements for Cabinet DOCSIS (C-DOCSIS)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13051" title="See more details">J.223.2 (10/2016)</a></nobr></td><td>Cabinet DOCSIS (C-DOCSIS) system specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15589" title="See more details">J.224 (07/2023)</a></nobr></td><td>Fifth-generation transmission systems for interactive cable television services – IP cable modems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15590" title="See more details">J.225 (07/2023)</a></nobr></td><td>Fourth-generation transmission systems for interactive cable television services – IP cable modems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13052" title="See more details">J.230 (10/2016)</a></nobr></td><td>Requirements for platform functionalities on the integration of cable STB and companion devices including mobile second screen devices</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7008" title="See more details">J.240 (06/2004)</a></nobr></td><td>Framework for remote monitoring of transmitted picture signal-to-noise ratio using spread-spectrum and orthogonal transform</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2207" title="See more details">J.241 (04/2005)</a></nobr></td><td>Quality of service ranking and measurement methods for digital video services delivered over broadband IP networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8936" title="See more details">J.242 (12/2006)</a></nobr></td><td>A method to reconstruct the received video sequence seen at the receiver using transmission error information to monitor the perceptual video quality at the receiver in digital cable television and video telephony</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8937" title="See more details">J.243 (11/2006)</a></nobr></td><td>Requirements for operational monitoring in television programme transmission chains</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9313" title="See more details">J.244 (04/2008)</a></nobr></td><td>Full reference and reduced reference calibration methods for video transmission systems with constant misalignment of spatial and temporal domains with constant gain and offset</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9495" title="See more details">J.245 (08/2008)</a></nobr></td><td>Subjective assessment method of picture quality assessed in the home</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9496" title="See more details">J.246 (08/2008)</a></nobr></td><td>Perceptual visual quality measurement techniques for multimedia services over digital cable television networks in the presence of a reduced bandwidth reference</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9497" title="See more details">J.247 (08/2008)</a></nobr></td><td>Objective perceptual multimedia video quality measurement in the presence of a full reference</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9498" title="See more details">J.248 (06/2008)</a></nobr></td><td>Requirements for operational monitoring of video-to-audio delay in the distribution of television programs</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7007" title="See more details">J.249 (01/2010)</a></nobr></td><td>Perceptual video quality measurement techniques for digital cable television in the presence of a reduced reference</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2282" title="See more details">J.260 (01/2005)</a></nobr></td><td>Requirements for preferential telecommunications over IPCablecom networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7365" title="See more details">J.261 (10/2009)</a></nobr></td><td>Framework for implementing preferential telecommunications in IPCablecom and IPCablecom2 networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8773" title="See more details">J.262 (10/2009)</a></nobr></td><td>Specifications for authentication in preferential telecommunications over IPCablecom2 networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8780" title="See more details">J.263 (10/2009)</a></nobr></td><td>Specification for priority in preferential telecommunications over IPCablecom2 networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11829" title="See more details">J.280 (03/2013)</a></nobr></td><td>Digital program insertion: Splicing application program interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2208" title="See more details">J.281 (03/2005)</a></nobr></td><td>Requirements for multichannel video signal transmission over IP-based fibre network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8938" title="See more details">J.282 (11/2006)</a></nobr></td><td>Architecture of multi-channel video signal distribution over IP-based networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8939" title="See more details">J.283 (11/2006)</a></nobr></td><td>IP network architecture with network layer route diversity providing resilient IP multicast video distribution</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9314" title="See more details">J.284 (12/2007)</a></nobr></td><td>Requirements and framework for gathering electronic content over IP-based network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9315" title="See more details">J.285 (12/2007)</a></nobr></td><td>Architecture for synchronised programme transfer with pull operation over IP-based networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9584" title="See more details">J.286 (03/2009)</a></nobr></td><td>Seamless splicing for heterogeneous ITU-T H.262 | ISO/IEC 13818-2 (MPEG-2 video) and ITU-T H.264 | ISO/IEC 14496-10 bitstreams</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12103" title="See more details">J.287 (01/2014)</a></nobr></td><td>Automation system to compression system communications application program interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13971" title="See more details">J.288 (07/2019)</a></nobr></td><td>Encapsulation of type length value (TLV) packet for cable transmission systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8940" title="See more details">J.290 (11/2006)</a></nobr></td><td>Next generation set-top box core architecture</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8941" title="See more details">J.291 (11/2006)</a></nobr></td><td>Next generation set-top-box cable architecture</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8942" title="See more details">J.292 (11/2006)</a></nobr></td><td>Next generation set-top box media-independent architecture</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9499" title="See more details">J.293 (06/2008)</a></nobr></td><td>Component definition and interface specification for the next generation set-top box</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10980" title="See more details">J.294 (09/2010)</a></nobr></td><td>Residential gateway requirements for the support of broadcast and IP-based interactive services over cable television networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11475" title="See more details">J.295 (01/2012)</a></nobr></td><td>Functional requirements for a hybrid cable set-top box</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11648" title="See more details">J.296 (06/2012)</a></nobr></td><td>Specifications for a hybrid cable set-top box</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13562" title="See more details">J.297 (03/2018)</a></nobr></td><td>Requirements and functional specification of cable set-top box for 4K ultra high definition television</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13834" title="See more details">J.298 (03/2019)</a></nobr></td><td>Requirements and technical specifications of a cable TV hybrid set-top box compatible with terrestrial and satellite TV transport</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15591" title="See more details">J.299 (07/2023)</a></nobr></td><td>Functional requirements for remote management of cable set-top boxes by auto configuration server</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12314" title="See more details">J.301 (10/2014)</a></nobr></td><td>Requirements for augmented reality smart television systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13054" title="See more details">J.302 (10/2016)</a></nobr></td><td>System specifications of augmented reality smart television service </td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13835" title="See more details">J.302 (2016) Amd. 1 (01/2019)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10551" title="See more details">J.340 (06/2010)</a></nobr></td><td>Reference algorithm for computing peak signal to noise ratio of a processed video sequence with compensation for constant spatial shifts, constant temporal shift, and constant luminance gain and offset</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12771" title="See more details">J.341 (03/2016)</a></nobr></td><td>Objective perceptual multimedia video quality measurement of HDTV for digital cable television in the presence of a full reference</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11310" title="See more details">J.342 (04/2011)</a></nobr></td><td>Objective multimedia video quality measurement of HDTV for digital cable television in the presence of a reduced reference signal</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12315" title="See more details">J.343 (11/2014)</a></nobr></td><td>Hybrid perceptual bitstream models for objective video quality measurements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13619" title="See more details">J.343 (2014) Amd. 1 (05/2018)</a></nobr></td><td>Test vectors for the ITU-T J.343 family of standards</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12316" title="See more details">J.343.1 (11/2014)</a></nobr></td><td>Hybrid-NRe objective perceptual video quality measurement for HDTV and multimedia IP-based video services in the presence of encrypted bitstream data</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12317" title="See more details">J.343.2 (11/2014)</a></nobr></td><td>Hybrid-NR objective perceptual video quality measurement for HDTV and multimedia IP-based video services in the presence of non-encrypted bitstream data</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12318" title="See more details">J.343.3 (11/2014)</a></nobr></td><td>Hybrid-RRe objective perceptual video quality measurement for HDTV and multimedia IP-based video services in the presence of a reduced reference signal and encrypted bitstream data</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12319" title="See more details">J.343.4 (11/2014)</a></nobr></td><td>Hybrid-RR objective perceptual video quality measurement for HDTV and multimedia IP-based video services in the presence of a reduced reference signal and non-encrypted bitstream data</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12320" title="See more details">J.343.5 (11/2014)</a></nobr></td><td>Hybrid-FRe objective perceptual video quality measurement for HDTV and multimedia IP-based video services in the presence of a full reference signal and encrypted bitstream data</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12321" title="See more details">J.343.6 (11/2014)</a></nobr></td><td>Hybrid-FR objective perceptual video quality measurement for HDTV and multimedia IP-based video services in the presence of a full reference signal and non-encrypted bitstream data</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8943" title="See more details">J.360 (11/2006)</a></nobr></td><td>IPCablecom2 architecture framework</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9206" title="See more details">J.360 (2006) Amd. 1 (06/2007)</a></nobr></td><td>New appendix IV – Home subscriber server (HSS)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9500" title="See more details">J.360 (2006) Amd. 2 (06/2008)</a></nobr></td><td>Modification to provisioning</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8944" title="See more details">J.361 (11/2006)</a></nobr></td><td>IPCablecom2 codec and media</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9202" title="See more details">J.361 (2006) Amd. 1 (07/2007)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8945" title="See more details">J.362 (11/2006)</a></nobr></td><td>IPCablecom2 control point discovery</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8946" title="See more details">J.363 (11/2006)</a></nobr></td><td>IPCablecom2 data collection to support accounting</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8948" title="See more details">J.365 (11/2006)</a></nobr></td><td>IPCablecom2 application manager interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8949" title="See more details">J.366.0 (11/2006)</a></nobr></td><td>IPCablecom2 IP Multimedia Subsystem (IMS): Delta Recommendations overview</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9198" title="See more details">J.366.1 (07/2007)</a></nobr></td><td>Organization of subscriber data specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8950" title="See more details">J.366.2 (08/2010)</a></nobr></td><td>IPCablecom2 IP Multimedia Subsystem (IMS): Session handling – IM call model – Stage 2 specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8951" title="See more details">J.366.3 (08/2010)</a></nobr></td><td>IPCablecom2 IP Multimedia Subsystem (IMS): Stage 2 specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8952" title="See more details">J.366.4 (08/2010)</a></nobr></td><td>IPCablecom2 IP Multimedia Subsystem (IMS): Session Initiation Protocol (SIP) and Session Description Protocol (SDP) – Stage 3 specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9200" title="See more details">J.366.5 (07/2007)</a></nobr></td><td>IP multimedia subsystem Cx and Dx interfaces; Signalling flows and message contents specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9201" title="See more details">J.366.6 (07/2007)</a></nobr></td><td>Specification of the Cx and Dx interfaces based on the Diameter protocol</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8953" title="See more details">J.366.7 (08/2010)</a></nobr></td><td>IPCablecom2 IP Multimedia Subsystem (IMS): Access security for IP-based services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8954" title="See more details">J.366.8 (11/2006)</a></nobr></td><td>IPCablecom2 IP Multimedia Subsystem (IMS): Network domain security specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8955" title="See more details">J.366.9 (11/2006)</a></nobr></td><td>IPCablecom2 IP Multimedia Subsystem (IMS): Generic authentication architecture specification (3GPP TS 33.220)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9199" title="See more details">J.366.10 (07/2007)</a></nobr></td><td>Zh and Zn interfaces based on the Diameter protocol; Stage 3 specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9501" title="See more details">J.367 (06/2008)</a></nobr></td><td>IPCablecom2 presence specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9502" title="See more details">J.368 (06/2008)</a></nobr></td><td>IPCablecom2 quality of service specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9503" title="See more details">J.369 (06/2008)</a></nobr></td><td>IPCablecom2 E-UE provisioning framework specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9504" title="See more details">J.370 (06/2008)</a></nobr></td><td>IPCablecom2 embedded user equipment provisioning data model specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11407" title="See more details">J.380.1 (11/2011)</a></nobr></td><td>Digital program insertion - Advertising systems interfaces – Advertising systems overview</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11408" title="See more details">J.380.2 (11/2011)</a></nobr></td><td>Digital program insertion - Advertising systems interfaces - Core data elements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11409" title="See more details">J.380.3 (11/2011)</a></nobr></td><td>Digital program insertion - Advertising systems interfaces - Management interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11410" title="See more details">J.380.4 (11/2011)</a></nobr></td><td>Digital program insertion - Advertising systems interfaces - Content information service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11411" title="See more details">J.380.5 (11/2011)</a></nobr></td><td>Digital program insertion - Advertising systems interfaces - Placement opportunity information service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11412" title="See more details">J.380.6 (11/2011)</a></nobr></td><td>Digital program insertion - Advertising systems interfaces - Subscriber information service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11413" title="See more details">J.380.7 (11/2011)</a></nobr></td><td>Digital program insertion - Advertising systems interfaces - Message transport</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11414" title="See more details">J.380.8 (11/2011)</a></nobr></td><td>Digital program insertion - Advertising systems interfaces - General information service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11650" title="See more details">J.381 (09/2012)</a></nobr></td><td>Requirements for advanced digital cable transmission technologies</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13563" title="See more details">J.382 (03/2018)</a></nobr></td><td>Advanced digital downstream transmission systems for television, sound and data services for cable distribution</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13836" title="See more details">J.383 (01/2019)</a></nobr></td><td>Conversion of type length value packet and transport stream for advanced cable transmission systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8956" title="See more details">J.388 (08/2010)</a></nobr></td><td>Real-time video and audio transmission system over IP networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9505" title="See more details">J.460.0 (06/2008)</a></nobr></td><td>IPCablecom2 residential SIP telephony: Feature definition</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9506" title="See more details">J.460.1 (06/2008)</a></nobr></td><td>IPCablecom2 residential SIP telephony: Feature specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9507" title="See more details">J.460.2 (06/2008)</a></nobr></td><td>IPCablecom2 residential SIP telephony: embedded digital voice adapter (E-DVA) specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2773" title="See more details">J.460.3 (09/2008)</a></nobr></td><td>IPCablecom2 residential SIP telephony: Usage data recording</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9508" title="See more details">J.460.4 (06/2008)</a></nobr></td><td>IPCablecom2 residential SIP telephony: Embedded-user equipment provisioning specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14601" title="See more details">J.481 (04/2021)</a></nobr></td><td>Cable network requirements for RF and IP secondary distribution of television programmes</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14602" title="See more details">J.482 (03/2021)</a></nobr></td><td>Requirements of a radio frequency (RF)/Internet protocol (IP) video switching system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14877" title="See more details">J.482 (2021) Cor. 1 (01/2022)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14839" title="See more details">J.483 (01/2022)</a></nobr></td><td>Architecture and functional specifications of a radio frequency (RF)/Internet protocol (IP) video switching system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15580" title="See more details">J.484 (11/2023)</a></nobr></td><td>Requirements of multicast adaptive bitrate (M-ABR) IP delivery</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7382" title="See more details">J.600 (06/2004)</a></nobr></td><td>Transport of Large Screen Digital Imagery (LSDI) applications that employ MPEG-2 encoded HDTV signals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8649" title="See more details">J.601 (11/2005)</a></nobr></td><td>Transport of Large Screen Digital Imagery (LSDI) applications for its expanded hierarchy</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9204" title="See more details">J.601 (2005) Amd. 1 (07/2007)</a></nobr></td><td>Modification of required picture and scanning characteristics</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9509" title="See more details">J.602 (06/2008)</a></nobr></td><td>Network service operator's requirements for real-time transmission of exLSDI signals under parallel processing functionality</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11311" title="See more details">J.603 (04/2011)</a></nobr></td><td>Real-time transmission system for signals of an expanded hierarchy of large screen digital imagery using spatial image segmentation for parallel processing</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12105" title="See more details">J.604 (01/2014)</a></nobr></td><td>Requirements for a scalable video transmission system over cable networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10546" title="See more details">J.700 (12/2009)</a></nobr></td><td>IPTV service requirements and framework for secondary distribution</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9585" title="See more details">J.701 (10/2008)</a></nobr></td><td>Broadcast-centric IPTV terminal middleware</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9586" title="See more details">J.702 (10/2008)</a></nobr></td><td>Enablement of current terminal devices for the support of IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10548" title="See more details">J.703 (03/2010)</a></nobr></td><td>IPTV client control interface definition</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10549" title="See more details">J.704 (12/2009)</a></nobr></td><td>Functional requirements of the service provider interface for television primary and secondary distribution and associated interactive services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11034" title="See more details">J.705 (01/2011)</a></nobr></td><td>IPTV client provisioning, activation, configuration and management interface definition</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11476" title="See more details">J.706 (01/2012)</a></nobr></td><td>Overview of the distribution of target-specific content</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11477" title="See more details">J.707 (01/2012)</a></nobr></td><td>Messages and protocols enabling the distribution of target-specific content within integrated broadband cable networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9510" title="See more details">J.800.0 (08/2008)</a></nobr></td><td>Cable assigned names and numbers</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9511" title="See more details">J.800.1 (08/2008)</a></nobr></td><td>Cable DHCP Registry</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9512" title="See more details">J.800.2 (06/2008)</a></nobr></td><td>Cable definition MIB specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12322" title="See more details">J.900 (10/2014)</a></nobr></td><td>Requirements for stereoscopic three-dimensional television service over hybrid fibre and coaxial based networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9513" title="See more details">J.901 (06/2008)</a></nobr></td><td>Requirements for the free viewpoint television (FTV) video transmission system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11478" title="See more details">J.902 (01/2012)</a></nobr></td><td>Multilayered data structure for scalable view-range representation</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11479" title="See more details">J.1001 (01/2012)</a></nobr></td><td>Requirements for renewable conditional access system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11881" title="See more details">J.1002 (03/2013)</a></nobr></td><td>Pairing protocol specification for renewable conditional access system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12323" title="See more details">J.1003 (10/2014)</a></nobr></td><td>Specifications of network protocol for renewable conditional access system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12569" title="See more details">J.1004 (08/2015)</a></nobr></td><td>Specifications of authorization centre interfaces for renewable conditional access system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12570" title="See more details">J.1005 (08/2015)</a></nobr></td><td>Architecture and requirements of digital rights management (DRM) for cable television multiscreen</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13055" title="See more details">J.1006 (10/2016)</a></nobr></td><td>Specification of IP-VoD DRM for cable television multiscreen system in multi-DRM environment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12772" title="See more details">J.1010 (09/2016)</a></nobr></td><td>Embedded common interface for exchangeable CA/DRM solutions; Use cases and requirements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12773" title="See more details">J.1011 (09/2016)</a></nobr></td><td>Embedded common interface for exchangeable CA/DRM solutions; Architecture, definitions and overview </td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13573" title="See more details">J.1012 (04/2020)</a></nobr></td><td>Embedded common interface for exchangeable CA/DRM solutions; CA/DRM container, loader, interfaces, revocation</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13574" title="See more details">J.1013 (04/2020)</a></nobr></td><td>Embedded common interface for exchangeable CA/DRM solutions; The virtual machine</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13575" title="See more details">J.1014 (04/2020)</a></nobr></td><td>Embedded common interface for exchangeable CA/DRM solutions; Advanced security – ECI-specific functionalities</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13576" title="See more details">J.1015 (04/2020)</a></nobr></td><td>Embedded common interface for exchangeable CA/DRM solutions; The advanced security system - Key ladder block</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13837" title="See more details">J.1015.1 (04/2020)</a></nobr></td><td>Embedded common interface for exchangeable CA/DRM solutions; The advanced security system - Key ladder block: Authentication of control word-usage rules information and associated data 1</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13286" title="See more details">J.1020 (10/2017)</a></nobr></td><td>Service model and architecture of downloadable mobile multi-CA/DRM solutions for delivering CA/DRM client software to secondary devices</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14868" title="See more details">J.1026 (01/2022)</a></nobr></td><td>Downloadable conditional access system for unidirectional networks – Requirements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14869" title="See more details">J.1027 (01/2022)</a></nobr></td><td>Downloadable conditional access system for unidirectional networks – System architecture</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14870" title="See more details">J.1028 (01/2022)</a></nobr></td><td>Downloadable conditional access system for unidirectional networks – Terminal system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14280" title="See more details">J.1031 (05/2020)</a></nobr></td><td>Downloadable conditional access system for bidirectional networks – Requirements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14355" title="See more details">J.1032 (08/2020)</a></nobr></td><td>Downloadable conditional access system for bidirectional networks – System architecture</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14356" title="See more details">J.1033 (08/2020)</a></nobr></td><td>Downloadable conditional access system for bidirectional networks – The terminal</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15581" title="See more details">J.1036 (07/2023)</a></nobr></td><td>Factual subscriber-base reporting and protected content delivery in conditional access system – Requirements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11651" title="See more details">J.1101 (06/2012)</a></nobr></td><td>Functional requirements for IP-based switched digital video using data over cable service interface specifications</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12571" title="See more details">J.1102 (08/2015)</a></nobr></td><td>Interface specifications for IP-based switched digital video using DOCSIS</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12572" title="See more details">J.1103 (08/2015)</a></nobr></td><td>Transmission specification for IP-based switched digital video using data over cable service interface specifications</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13056" title="See more details">J.1104 (10/2016)</a></nobr></td><td>Control specification for IP-based switched digital video using data over cable service interface specifications</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13057" title="See more details">J.1105 (10/2016)</a></nobr></td><td>Requirement of channel switching service over hybrid fibre and coaxial based network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13287" title="See more details">J.1106 (07/2017)</a></nobr></td><td>Requirement for radio over IP transmission system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13564" title="See more details">J.1107 (03/2018)</a></nobr></td><td>Architecture and specification for radio over IP transmission systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13838" title="See more details">J.1108 (01/2019)</a></nobr></td><td>Transmission specification for radio over IP transmission systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13839" title="See more details">J.1109 (01/2019)</a></nobr></td><td>Requirement for in-band full-duplex in a HFC based network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14646" title="See more details">J.1110 (06/2021)</a></nobr></td><td>Functional requirements specification for self-interference cancellation function of in-band full-duplex in a HFC based network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14840" title="See more details">J.1111 (01/2022)</a></nobr></td><td>Requirements for the advanced IP-based digital video convergence service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15582" title="See more details">J.1112 (07/2023)</a></nobr></td><td>Functional requirements for IP-based digital video convergence service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14871" title="See more details">J.1201 (01/2022)</a></nobr></td><td>Smart television operating system – Functional requirements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14872" title="See more details">J.1202 (01/2022)</a></nobr></td><td>Smart television operating system – Architecture</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14873" title="See more details">J.1203 (01/2022)</a></nobr></td><td>Smart television operating system – Specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14874" title="See more details">J.1204 (01/2022)</a></nobr></td><td>Smart television operating system – Security framework</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14841" title="See more details">J.1205 (01/2022)</a></nobr></td><td>Smart television operating system – Hardware abstract layer application programming interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15802" title="See more details">J.1206 (01/2024)</a></nobr></td><td>Smart television operating system – Application programming interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13976" title="See more details">J.1210 (07/2019)</a></nobr></td><td>Requirements of IP video broadcast (IPVB) for cable TV networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14282" title="See more details">J.1211 (05/2020)</a></nobr></td><td>Specifications of IP video broadcast (IPVB) for cable TV networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14585" title="See more details">J.1301 (01/2021)</a></nobr></td><td>Specification of cloud-based converged media service to support Internet protocol and broadcast cable television – Requirements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14647" title="See more details">J.1302 (06/2021)</a></nobr></td><td>Specification of a cloud-based converged media service to support Internet protocol and broadcast cable television –  System architecture</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14878" title="See more details">J.1302 (2021) Cor. 1 (01/2022)</a></nobr></td><td>Specification of a cloud-based converged media service to support Internet protocol and broadcast cable television – System architecture – Corrigendum 1</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14842" title="See more details">J.1303 (01/2022)</a></nobr></td><td>Specification of a cloud-based converged media service to support Internet protocol and broadcast cable television – System specification on collaboration between production media cloud and cable service cloud</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14843" title="See more details">J.1304 (01/2022)</a></nobr></td><td>Functional requirements for service collaboration between cable television operators and OTT service providers</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15583" title="See more details">J.1305 (07/2023)</a></nobr></td><td>Requirements for microservices architecture for audio-visual media in the converged media cloud</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15584" title="See more details">J.1306 (07/2023)</a></nobr></td><td>Specification of microservices architecture for audio-visual media in the converged media cloud</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14844" title="See more details">J.1401 (01/2022)</a></nobr></td><td>Television content distribution platforms – Requirements for open access and signal quality</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13977" title="See more details">J.1600 (10/2019)</a></nobr></td><td>Premium cable network platform – Framework</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15118" title="See more details">J.1611 (10/2022)</a></nobr></td><td>Functional requirements for a smart home gateway</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15592" title="See more details">J.1612 (07/2023)</a></nobr></td><td>Architecture for a smart home gateway</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14648" title="See more details">J.1631 (11/2021)</a></nobr></td><td>Functional requirements of E2E network platforms to enhance the delivery of cloud-VR services over integrated broadband cable networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr>
+	</table>
+</div>

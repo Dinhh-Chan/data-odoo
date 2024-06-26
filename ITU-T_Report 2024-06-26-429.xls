@@ -1,0 +1,557 @@
+<table width="98%" border="0" cellspacing="0" cellpadding="5"><tr><td colspan="2" style="text-align: center; font-family: verdana; font-size: 9pt;"><b>ITU-T Recommendations report</b></td></tr><tr><td width="10%" style="font-family: verdana; font-size: 8pt;"><i>Record(s) found:</i></td><td style="text-align: left; font-family: verdana; font-size: 8pt;">274</td></tr><tr><td colspan="2" style="font-family: verdana; font-size: 8pt;"><i>Report generated at 2024-06-26 02:29:02Z</i></td></tr></table><br/><div>
+	<table cellspacing="0" cellpadding="6" rules="all" border="1" id="ctl00_content_result_grd_result" style="background-color:White;border-color:LightGrey;border-width:1px;border-style:Solid;font-family:Verdana;font-size:8pt;width:750px;border-collapse:collapse;">
+		<tr style="background-color:#F1F1F1;">
+			<th align="center" scope="col" style="color:Blue;font-weight:normal;">Rec.</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Title</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Status</th>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1436" title="See more details">M.10 (10/1992)</a></nobr></td><td>Scope and application of Recommendations for maintenance of telecommunication networks and services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1490" title="See more details">M.15 (11/1988)</a></nobr></td><td>Maintenance considerations for new systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1499" title="See more details">M.20 (10/1992)</a></nobr></td><td>Maintenance philosophy for telecommunication networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1502" title="See more details">M.21 (10/1992)</a></nobr></td><td>Maintenance philosophy for telecommunication services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1522" title="See more details">M.32 (11/1988)</a></nobr></td><td>Principles for using alarm information for maintenance of international transmission systems and equipment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1527" title="See more details">M.34 (11/1988)</a></nobr></td><td>Performance monitoring on international transmission systems and equipment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1530" title="See more details">M.35 (11/1988)</a></nobr></td><td>Principles concerning line-up and maintenance limits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1561" title="See more details">M.50 (11/1988)</a></nobr></td><td>Use of telecommunication terms for maintenance</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1580" title="See more details">M.60 (03/1993)</a></nobr></td><td>Maintenance terminology and definitions</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1591" title="See more details">M.70 (11/1988)</a></nobr></td><td>Guiding principles on the general maintenance organization for telephone-type international circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1613" title="See more details">M.75 (10/1992)</a></nobr></td><td>Technical service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1620" title="See more details">M.80 (11/1988)</a></nobr></td><td>Control stations</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1625" title="See more details">M.85 (10/1992)</a></nobr></td><td>Fault report points</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1628" title="See more details">M.90 (11/1988)</a></nobr></td><td>Sub-control stations</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1437" title="See more details">M.100 (11/1988)</a></nobr></td><td>Service circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1456" title="See more details">M.110 (11/1988)</a></nobr></td><td>Circuit testing</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1470" title="See more details">M.120 (11/1988)</a></nobr></td><td>Access points for maintenance</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1474" title="See more details">M.125 (11/1988)</a></nobr></td><td>Digital loopback mechanisms</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1497" title="See more details">M.160 (11/1988)</a></nobr></td><td>Stability of transmission</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1523" title="See more details">M.320 (11/1988)</a></nobr></td><td>Numbering of the channels in a group</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1525" title="See more details">M.330 (11/1988)</a></nobr></td><td>Numbering of groups within a supergroup</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1528" title="See more details">M.340 (11/1988)</a></nobr></td><td>Numbering of supergroups within a mastergroup</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1531" title="See more details">M.350 (11/1988)</a></nobr></td><td>Numbering of mastergroups within a supermastergroup</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1543" title="See more details">M.380 (11/1988)</a></nobr></td><td>Numbering in coaxial systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1544" title="See more details">M.390 (11/1988)</a></nobr></td><td>Numbering in systems on symmetric pair cable</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1546" title="See more details">M.400 (11/1988)</a></nobr></td><td>Numbering in radio-relay links or open-wire line systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1551" title="See more details">M.410 (11/1988)</a></nobr></td><td>Numbering of digital blocks in transmission systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1554" title="See more details">M.450 (11/1988)</a></nobr></td><td>Bringing a new international transmission system into service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1555" title="See more details">M.460 (11/1988)</a></nobr></td><td>Bringing international group, supergroup, etc., links into service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1556" title="See more details">M.470 (11/1988)</a></nobr></td><td>Setting up and lining up analogue channels for international telecommunication services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1557" title="See more details">M.475 (11/1988)</a></nobr></td><td>Setting up and lining up mixed analogue/digital channels for international telecommunication services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1559" title="See more details">M.495 (11/1988)</a></nobr></td><td>Transmission restoration and transmission route diversity: Terminology and general principles</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1560" title="See more details">M.496 (11/1988)</a></nobr></td><td>Functional organization for automatic transmission restoration</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1562" title="See more details">M.500 (11/1988)</a></nobr></td><td>Routine maintenance measurements to be made on regulated line sections</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1563" title="See more details">M.510 (11/1988)</a></nobr></td><td>Readjustment to the nominal value of a regulated line section (on a symmetric pair line, a coaxial line or a radio-relay link)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1564" title="See more details">M.520 (11/1988)</a></nobr></td><td>Routine maintenance on international group, supergroup, etc., links</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1565" title="See more details">M.525 (11/1988)</a></nobr></td><td>Automatic maintenance procedures for international group, supergroup, etc., links</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1566" title="See more details">M.530 (11/1988)</a></nobr></td><td>Readjustment to the nominal value of an international group, supergroup, etc., link</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1567" title="See more details">M.535 (11/1988)</a></nobr></td><td>Special maintenance procedures for multiple destination, unidirectional (MU) group and supergroup links</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1568" title="See more details">M.540 (11/1988)</a></nobr></td><td>Routine maintenance of carrier and pilot generating equipment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1571" title="See more details">M.556 (11/1988)</a></nobr></td><td>Setting up and initial testing of digital channels on an international digital path or block</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1572" title="See more details">M.560 (11/1988)</a></nobr></td><td>International telephone circuits – Principles, definitions and relative transmission levels</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1573" title="See more details">M.562 (11/1988)</a></nobr></td><td>Types of circuit and circuit section</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1574" title="See more details">M.565 (11/1988)</a></nobr></td><td>Access points for international telephone circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1575" title="See more details">M.570 (11/1988)</a></nobr></td><td>Constitution of the circuit; preliminary exchange of information</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1576" title="See more details">M.580 (11/1988)</a></nobr></td><td>Setting up and lining up an international circuit for public telephony</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1577" title="See more details">M.585 (11/1988)</a></nobr></td><td>Bringing an international digital circuit into service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1578" title="See more details">M.590 (11/1988)</a></nobr></td><td>Setting up and lining up a circuit fitted with a compandor</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1581" title="See more details">M.600 (11/1988)</a></nobr></td><td>Organization of routine maintenance measurements on circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1582" title="See more details">M.605 (11/1988)</a></nobr></td><td>Routine maintenance schedule for international public telephony circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1583" title="See more details">M.610 (11/1988)</a></nobr></td><td>Periodicity of maintenance measurements on circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1584" title="See more details">M.620 (11/1988)</a></nobr></td><td>Methods for carrying out routine measurements on circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1585" title="See more details">M.630 (11/1988)</a></nobr></td><td>Maintenance of circuits using control chart methods</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1586" title="See more details">M.650 (11/1988)</a></nobr></td><td>Routine line measurements to be made on the line repeaters of audio-frequency sections or circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1587" title="See more details">M.660 (11/1988)</a></nobr></td><td>Periodical in-station tests of echo suppressors complying with Recommendations G.161 and G.164</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1588" title="See more details">M.665 (11/1988)</a></nobr></td><td>Testing of echo cancellers</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1589" title="See more details">M.670 (11/1988)</a></nobr></td><td>Maintenance of a circuit fitted with a compandor</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1590" title="See more details">M.675 (11/1988)</a></nobr></td><td>Lining up and maintaining international demand assignment circuits (SPADE)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1592" title="See more details">M.710 (11/1988)</a></nobr></td><td>General maintenance organization for the international automatic and semi-automatic telephone service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1594" title="See more details">M.715 (11/1988)</a></nobr></td><td>Fault report point (circuit)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1595" title="See more details">M.716 (11/1988)</a></nobr></td><td>Fault report point (network)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1596" title="See more details">M.717 (11/1988)</a></nobr></td><td>Testing point (transmission)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1597" title="See more details">M.718 (11/1988)</a></nobr></td><td>Testing point (line signalling)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1598" title="See more details">M.719 (11/1988)</a></nobr></td><td>Testing point (switching and interregister signalling)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1599" title="See more details">M.720 (11/1988)</a></nobr></td><td>Network analysis point</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1600" title="See more details">M.721 (11/1988)</a></nobr></td><td>System availability information point</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1601" title="See more details">M.722 (11/1980)</a></nobr></td><td>Network management point</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1602" title="See more details">M.723 (11/1988)</a></nobr></td><td>Circuit control station</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1603" title="See more details">M.724 (11/1988)</a></nobr></td><td>Circuit sub-control station</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1604" title="See more details">M.725 (11/1988)</a></nobr></td><td>Restoration control point</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1605" title="See more details">M.726 (11/1988)</a></nobr></td><td>Maintenance organization for the wholly digital international automatic and semi-automatic telephone service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11026" title="See more details">M.727 (03/2011)</a></nobr></td><td>Planned outage notification point</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1606" title="See more details">M.729/V.51 (11/1988)</a></nobr></td><td>Organization of the maintenance of international public switched telephone circuits used for data transmission</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1607" title="See more details">M.730 (11/1988)</a></nobr></td><td>Maintenance methods</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1608" title="See more details">M.731 (11/1988)</a></nobr></td><td>Subjective testing</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1609" title="See more details">M.732 (11/1988)</a></nobr></td><td>Signalling and switching routine maintenance tests and measurements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1610" title="See more details">M.733 (11/1988)</a></nobr></td><td>Transmission routine maintenance measurements on automatic and semi-automatic telephone circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1611" title="See more details">M.734 (11/1988)</a></nobr></td><td>Exchange of information on incoming test facilities at international switching centres</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1615" title="See more details">M.760 (11/1988)</a></nobr></td><td>Transfer link for common channel Signalling System No. 6</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1617" title="See more details">M.762 (11/1988)</a></nobr></td><td>Maintenance of common channel Signalling System No. 6</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1621" title="See more details">M.800 (11/1988)</a></nobr></td><td>Use of circuits for voice-frequency telegraphy</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1622" title="See more details">M.810 (11/1988)</a></nobr></td><td>Setting up and lining up an international voice-frequency telegraph link for public telegraph circuits (for 50, 100 and 200 baud modulation rates)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1623" title="See more details">M.820 (11/1988)</a></nobr></td><td>Periodicity of routine tests on international voice-frequency telegraph links</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1624" title="See more details">M.830 (11/1988)</a></nobr></td><td>Routine measurements to be made on international voice-frequency telegraph links</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1626" title="See more details">M.850 (11/1988)</a></nobr></td><td>International time division multiplex (TDM) telegraph systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1627" title="See more details">M.880 (11/1988)</a></nobr></td><td>International phototelegraph transmission</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1629" title="See more details">M.900 (11/1988)</a></nobr></td><td>Use of leased group and supergroup links for wide-spectrum signal transmission (data, facsimile, etc.)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1630" title="See more details">M.910 (11/1988)</a></nobr></td><td>Setting up and lining up an international leased group link for wide-spectrum signal transmission</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1438" title="See more details">M.1010 (11/1988)</a></nobr></td><td>Constitution and nomenclature of international leased circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1439" title="See more details">M.1012 (11/1988)</a></nobr></td><td>Circuit control station for leased and special circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1440" title="See more details">M.1013 (11/1988)</a></nobr></td><td>Sub-control station for leased and special circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1441" title="See more details">M.1014 (11/1988)</a></nobr></td><td>Transmission maintenance point (international line) (TMP-IL)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1442" title="See more details">M.1015 (11/1988)</a></nobr></td><td>Types of transmission on leased circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1443" title="See more details">M.1016 (11/1988)</a></nobr></td><td>Assessment of the service availability performance of international leased circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1445" title="See more details">M.1020 (03/1993)</a></nobr></td><td>Characteristics of special quality international leased circuits with special bandwidth conditioning</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1447" title="See more details">M.1025 (03/1993)</a></nobr></td><td>Characteristics of special quality international leased circuits with basic bandwidth conditioning</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1448" title="See more details">M.1030 (11/1988)</a></nobr></td><td>Characteristics of ordinary quality international leased circuits forming part of private switched telephone networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1449" title="See more details">M.1040 (11/1988)</a></nobr></td><td>Characteristics of ordinary quality international leased circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3350" title="See more details">M.1045 (05/1996)</a></nobr></td><td>Preliminary exchange of information for the provision of international leased circuits and international data transmission systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4418" title="See more details">M.1050 (06/1998)</a></nobr></td><td>Lining up an international point-to-point leased circuit with analogue presentation to the user</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1454" title="See more details">M.1055 (11/1988)</a></nobr></td><td>Lining up an international multiterminal leased circuit</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1455" title="See more details">M.1060 (11/1988)</a></nobr></td><td>Maintenance of international leased circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1460" title="See more details">M.1130 (10/1992)</a></nobr></td><td>General definitions and general principles of operation/maintenance procedures to be used in satellite mobile systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1461" title="See more details">M.1140 (10/1992)</a></nobr></td><td>Maritime mobile telecommunication services via satellite</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4030" title="See more details">M.1150 (04/1997)</a></nobr></td><td>Maintenance aspects of maritime/land mobile telecommunication store-and-forward services (packet mode) via satellite</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4031" title="See more details">M.1160 (04/1997)</a></nobr></td><td>Maintenance aspects of aeronautical mobile telecommunication service via satellite</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4039" title="See more details">M.1170 (04/1997)</a></nobr></td><td>Maintenance aspects of mobile digital telecommunication service via satellite</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3351" title="See more details">M.1230 (05/1996)</a></nobr></td><td>Method to improve the management of operations and maintenance processes in the international telephone network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1473" title="See more details">M.1235 (11/1988)</a></nobr></td><td>Use of automatically generated test calls for assessment of network performance</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4309" title="See more details">M.1300 (10/1997)</a></nobr></td><td>Maintenance of international data transmission systems operating in the range 2.4 kbit/s to 140 Mbit/s</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5286" title="See more details">M.1301 (01/2001)</a></nobr></td><td>General description and operational procedures for international SDH leased circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1478" title="See more details">M.1320 (11/1988)</a></nobr></td><td>Numbering of channels in data transmission systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4858" title="See more details">M.1340 (02/2000)</a></nobr></td><td>Performance objectives, allocations and limits for international PDH leased circuits and supporting data transmission links and systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5535" title="See more details">M.1340 (2000) Cor. 1 (08/2001)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1480" title="See more details">M.1350 (11/1988)</a></nobr></td><td>Setting up, lining up and characteristics of international data transmission systems operating in the range 2.4 kbit/s to 14.4 kbit/s</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1481" title="See more details">M.1355 (11/1988)</a></nobr></td><td>Maintenance of international data transmission systems operating in the range 2.4 to 14.4 kbit/s</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4419" title="See more details">M.1370 (06/1998)</a></nobr></td><td>Bringing-into-service of international data transmission systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4420" title="See more details">M.1375 (06/1998)</a></nobr></td><td>Maintenance of international data transmission systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4859" title="See more details">M.1380 (02/2000)</a></nobr></td><td>Bringing-into-service of international leased circuits that are supported by international data transmission systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4860" title="See more details">M.1385 (02/2000)</a></nobr></td><td>Maintenance of international leased circuits that are supported by international data transmission systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12467" title="See more details">M.1400 (04/2015)</a></nobr></td><td>Designations for interconnections among operators' networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13478" title="See more details">M.1400 (2015) Amd. 1 (01/2018)</a></nobr></td><td>Addition of new function codes for optical networks beyond 100 Gb/s</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8854" title="See more details">M.1401 (07/2006)</a></nobr></td><td>Formalization of interconnection designations among operators' telecommunication networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11620" title="See more details">M.1402 (05/2012)</a></nobr></td><td>Formalization of data for service management</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9092" title="See more details">M.1403 (08/2007)</a></nobr></td><td>Formalization of generic orders</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9093" title="See more details">M.1404 (08/2007)</a></nobr></td><td>Formalization of orders for interconnections among operators' networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9094" title="See more details">M.1405 (08/2007)</a></nobr></td><td>Formalization of orders for service management among operators</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1491" title="See more details">M.1510 (10/1992)</a></nobr></td><td>Exchange of contact point information for the maintenance of international services and the international network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1492" title="See more details">M.1520 (10/1992)</a></nobr></td><td>Standardized information exchange between Administrations</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8714" title="See more details">MES-2 (1992) Amd. 1 (01/1999)</a></nobr></td><td>Additions to the Handbook on Telephonometry</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8715" title="See more details">MES-2 (1992) Amd. 2 (01/2000)</a></nobr></td><td>Addition to Section 2.3 of the Handbook on Telephonometry</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8716" title="See more details">MES-2 (1992) Amd. 3 (01/2000)</a></nobr></td><td>Addition to Section 3 of the Handbook on Telephonometry</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4626" title="See more details">M.1530 (03/1999)</a></nobr></td><td>Network maintenance information</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4862" title="See more details">M.1532 (02/2000)</a></nobr></td><td>Network maintenance service performance agreement (MSPA)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3359" title="See more details">M.1535 (05/1996)</a></nobr></td><td>Principles for maintenance information to be exchanged at customer contact point (MICC)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4312" title="See more details">M.1537 (10/1997)</a></nobr></td><td>Definition of maintenance information to be exchanged at customer contact point (MICC)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4627" title="See more details">M.1539 (03/1999)</a></nobr></td><td>Management of the grade of network maintenance services at the Maintenance Service Customer Contact Point (MSCC)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1494" title="See more details">M.1540 (10/1994)</a></nobr></td><td>Exchange of information for planned outages of transmission systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11027" title="See more details">M.1541 (01/2011)</a></nobr></td><td>Planned outage notification to customers</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1495" title="See more details">M.1550 (10/1992)</a></nobr></td><td>Escalation procedure</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1496" title="See more details">M.1560 (10/1992)</a></nobr></td><td>Escalation procedure for international leased circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6308" title="See more details">M.2100 (04/2003)</a></nobr></td><td>Performance limits for bringing-into-service and maintenance of international multi-operator PDH paths and connections</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6309" title="See more details">M.2101 (06/2003)</a></nobr></td><td>Performance limits for bringing-into-service and maintenance of international multi-operator SDH paths and multiplex sections</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4864" title="See more details">M.2102 (02/2000)</a></nobr></td><td>Maintenance thresholds and procedures for recovery mechanisms (protection and restoration) of international SDH VC trails (paths) and multiplex sections</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6077" title="See more details">M.2110 (07/2002)</a></nobr></td><td>Bringing into service international multi-operator paths, sections and transmission systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6078" title="See more details">M.2120 (07/2002)</a></nobr></td><td>International multi-operator paths, sections and transmission systems fault detection and localization procedures</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4866" title="See more details">M.2130 (02/2000)</a></nobr></td><td>Operational procedures for the maintenance of the transport network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4867" title="See more details">M.2140 (02/2000)</a></nobr></td><td>Transport network event correlation</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5431" title="See more details">M.2201 (03/2001)</a></nobr></td><td>Performance objectives, allocations and limits for bringing-into-service and maintenance of international ATM virtual path and virtual channel connections</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6079" title="See more details">M.2301 (07/2002)</a></nobr></td><td>Performance objectives and procedures for provisioning and maintenance of IP-based networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7050" title="See more details">M.2401 (12/2003)</a></nobr></td><td>Error performance limits and procedures for bringing-into-service and maintenance of multi-operator international paths and sections within an optical transport network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4868" title="See more details">M.3000 (02/2000)</a></nobr></td><td>Overview of TMN Recommendations</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4869" title="See more details">M.3010 (02/2000)</a></nobr></td><td>Principles for a telecommunications management network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7051" title="See more details">M.3010 (2000) Amd. 1 (12/2003)</a></nobr></td><td>TMN conformance and TMN compliance</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8034" title="See more details">M.3010 (2000) Amd. 2 (11/2005)</a></nobr></td><td>Additions and corrections</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4870" title="See more details">M.3013 (02/2000)</a></nobr></td><td>Considerations for a telecommunications management network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8037" title="See more details">M.3016.0 (05/2005)</a></nobr></td><td>Security for the management plane: Overview</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8038" title="See more details">M.3016.1 (04/2005)</a></nobr></td><td>Security for the management plane: Security requirements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8623" title="See more details">M.3016.1 (2005) Cor. 1 (11/2005)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11365" title="See more details">M.3016.1 (2005) Amd. 1 (07/2011)</a></nobr></td><td>Authentication extension</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8039" title="See more details">M.3016.2 (04/2005)</a></nobr></td><td>Security for the management plane: Security services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8040" title="See more details">M.3016.3 (04/2005)</a></nobr></td><td>Security for the management plane: Security mechanism</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11366" title="See more details">M.3016.3 (2005) Amd. 1 (07/2011)</a></nobr></td><td>Redundant authentication extension</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8041" title="See more details">M.3016.4 (04/2005)</a></nobr></td><td>Security for the management plane: Profile proforma</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11367" title="See more details">M.3016.4 (2005) Amd. 1 (07/2011)</a></nobr></td><td>Authentication extension</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6310" title="See more details">M.3017 (06/2003)</a></nobr></td><td>Framework for the integrated management of hybrid circuit/packet networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8035" title="See more details">M.3017 (2003) Amd. 1 (04/2005)</a></nobr></td><td>Additional options</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15514" title="See more details">M.3020 (04/2023)</a></nobr></td><td>Management interface specification methodology</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6071" title="See more details">M.3030 (08/2002)</a></nobr></td><td>Telecommunications Markup Language (tML) framework</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7386" title="See more details">M.3031 (07/2004)</a></nobr></td><td>Guidelines for Implementation Conformance Statement proformas for tML schemas</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8624" title="See more details">M.3031 (2004) Cor. 1 (11/2005)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13877" title="See more details">M.3040 (04/2019)</a></nobr></td><td>Principles for on-site telecommunication smart maintenance</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14181" title="See more details">M.3041 (02/2020)</a></nobr></td><td>Framework of smart operation, management and maintenance</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9072" title="See more details">M.3050.0 (03/2007)</a></nobr></td><td>Enhanced Telecom Operations Map (eTOM) – Introduction</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9073" title="See more details">M.3050.1 (03/2007)</a></nobr></td><td>Enhanced Telecom Operations Map (eTOM) – The business process framework</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9074" title="See more details">M.3050.2 (03/2007)</a></nobr></td><td>Enhanced Telecom Operations Map (eTOM) – Process decompositions and descriptions</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9075" title="See more details">M.3050.3 (03/2007)</a></nobr></td><td>Enhanced Telecom Operations Map (eTOM) – Representative process flows</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9090" title="See more details">M.3050.4 (03/2007)</a></nobr></td><td>Enhanced Telecom Operations Map (eTOM) – B2B integration: Using B2B inter-enterprise integration with the eTOM</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8626" title="See more details">M.3060/Y.2401 (03/2006)</a></nobr></td><td>Principles for the Management of  Next Generation Networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13479" title="See more details">M.3071 (01/2018)</a></nobr></td><td>Cloud-based network management functional architecture</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14590" title="See more details">M.3080 (02/2021)</a></nobr></td><td>Framework of artificial intelligence enhanced telecom operation and management (AITOM)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14650" title="See more details">M.3080 (2021) Err. 1 (05/2021)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8340" title="See more details">M.3100 (04/2005)</a></nobr></td><td>Generic network information model</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8625" title="See more details">M.3100 (2005) Cor. 1 (11/2005)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1520" title="See more details">M.3101 (07/1995)</a></nobr></td><td>Managed object conformance statements for the generic network information model</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11028" title="See more details">M.3102 (01/2011)</a></nobr></td><td>Unified generic management information model for connection-oriented and connectionless networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4629" title="See more details">M.3108.1 (03/1999)</a></nobr></td><td>TMN management services for dedicated and reconfigurable circuits network : Information model for management of leased circuit and reconfigurable services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5289" title="See more details">M.3108.1 (1999) Cor. 1 (01/2001)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4873" title="See more details">M.3108.2 (02/2000)</a></nobr></td><td>TMN management services for dedicated and reconfigurable circuits network : Information model for connection management of preprovisioned service link connections to form a reconfigurable leased service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5290" title="See more details">M.3108.3 (01/2001)</a></nobr></td><td>TMN management services for dedicated and reconfigurable circuits network : Information model for management of virtual private network service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5539" title="See more details">M.3120 (10/2001)</a></nobr></td><td>CORBA generic network and network element level information model</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6038" title="See more details">M.3120 (2001) Amd. 1 (05/2002)</a></nobr></td><td>Protection switching</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6297" title="See more details">M.3120 (2001) Amd. 2 (03/2003)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9551" title="See more details">M.3160 (11/2008)</a></nobr></td><td>Generic, protocol-neutral management information model</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12782" title="See more details">M.3160 (2008) Amd. 1 (03/2016)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13075" title="See more details">M.3160 (2008) Amd. 2 (09/2016)</a></nobr></td><td>New Appendix II on positioning Recommendation ITU-T M.3160 to Recommendation ITU-T M.1401</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14319" title="See more details">M.3164 (07/2020)</a></nobr></td><td>Generic information model for on-site telecommunication smart maintenance</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9076" title="See more details">M.3170.0 (03/2007)</a></nobr></td><td>Multi-technology network management: Introduction and supporting documentation</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12468" title="See more details">M.3170.0 (2007) Amd. 1 (04/2015)</a></nobr></td><td>Upgrade to MTNM Release 3.5</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9077" title="See more details">M.3170.1 (03/2007)</a></nobr></td><td>Multi-technology network management: Business agreement (TMF513)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12469" title="See more details">M.3170.1 (2007) Amd. 1 (04/2015)</a></nobr></td><td>Upgrade to MTNM Release 3.5</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9078" title="See more details">M.3170.2 (03/2007)</a></nobr></td><td>Multi-technology network management: Information agreement (TMF608)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12470" title="See more details">M.3170.2 (2007) Amd. 1 (04/2015)</a></nobr></td><td>Upgrade to MTNM Release 3.5</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9079" title="See more details">M.3170.3 (03/2007)</a></nobr></td><td>Multi-technology network management: CORBA IDL solution set (TMF814) with implementation statement templates and guidelines (TMF814A)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12471" title="See more details">M.3170.3 (2007) Amd. 1 (04/2015)</a></nobr></td><td>Upgrade to MTNM Release 3.5</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12472" title="See more details">M.3170.4 (04/2015)</a></nobr></td><td>Multi-technology network management: Conformance testing specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15771" title="See more details">M.3173.1 (01/2024)</a></nobr></td><td>Interface for synergy management of cloud and software-defined networking-based networks – Protocol neutral requirements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1521" title="See more details">M.3180 (10/1992)</a></nobr></td><td>Catalogue of TMN management information</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9541" title="See more details">M.3190 (07/2008)</a></nobr></td><td>Shared information and data model (SID)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4036" title="See more details">M.3200 (04/1997)</a></nobr></td><td>TMN management services and telecommunications managed areas: overview</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3361" title="See more details">M.3207.1 (05/1996)</a></nobr></td><td>TMN management service: Maintenance aspects of B-ISDN management</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4314" title="See more details">M.3208.1 (10/1997)</a></nobr></td><td>TMN management services for dedicated and reconfigurable circuits network : Leased circuit services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4874" title="See more details">M.3208.1 (1997) Cor. 1 (02/2000)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4630" title="See more details">M.3208.2 (03/1999)</a></nobr></td><td>TMN management services for dedicated and reconfigurable circuits network : Connection management of pre-provisioned service link connections to form a leased circuit service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5292" title="See more details">M.3208.2 (1999) Cor. 1 (01/2001)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4875" title="See more details">M.3208.3 (02/2000)</a></nobr></td><td>TMN management services for dedicated and reconfigurable circuits network : Virtual private network service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5293" title="See more details">M.3210.1 (01/2001)</a></nobr></td><td>TMN management services for IMT-2000 security management</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3360" title="See more details">M.3211.1 (05/1996)</a></nobr></td><td>TMN management service: Fault and performance management of the ISDN access</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4425" title="See more details">M.3300 (06/1998)</a></nobr></td><td>TMN F interface requirements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4041" title="See more details">M.3320 (04/1997)</a></nobr></td><td>Management requirements framework for the TMN X-Interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9737" title="See more details">M.3340 (05/2009)</a></nobr></td><td>Framework for NGN service fulfilment and assurance management across the business to business and customer to business interfaces</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7053" title="See more details">M.3341 (12/2003)</a></nobr></td><td>Requirements for QoS/SLA management over the TMN X-interface for IP-based services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8855" title="See more details">M.3342 (07/2006)</a></nobr></td><td>Guidelines for the definition of SLA representation templates</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8856" title="See more details">M.3343 (01/2007)</a></nobr></td><td>Requirements and analysis for NGN trouble administration across B2B and C2B interfaces</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11029" title="See more details">M.3344 (01/2011)</a></nobr></td><td>Requirements and analysis for NGN appointment management across the business-to-business and customer-to-business interfaces</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=125" title="See more details">M.3345 (05/2009)</a></nobr></td><td>Principles for self-service management</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11621" title="See more details">M.3347 (05/2012)</a></nobr></td><td>Requirements for the NGN service activation across the interface between the network management system and the element management system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11030" title="See more details">M.3348 (01/2011)</a></nobr></td><td>Requirements of the NMS-EMS management interface for NGN service platforms</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11900" title="See more details">M.3349 (03/2013)</a></nobr></td><td>Requirements for service and product lifecycle management across business to business interfaces</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7157" title="See more details">M.3350 (05/2004)</a></nobr></td><td>TMN service management requirements for information interchange across the TMN X-interface to support provisioning of Emergency Telecommunication Service (ETS)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11031" title="See more details">M.3361 (01/2011)</a></nobr></td><td>Requirements for business-to-government management interfaces - B2G interfaces - Introduction</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14197" title="See more details">M.3362 (06/2020)</a></nobr></td><td>Requirements for telecommunication anti-fraud management in the telecommunication management network
+</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14182" title="See more details">M.3363 (02/2020)</a></nobr></td><td>Requirements for data management in the telecommunication management network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14183" title="See more details">M.3364 (02/2020)</a></nobr></td><td>Requirements for on-site telecommunication smart maintenance management function</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14744" title="See more details">M.3365 (10/2021)</a></nobr></td><td>Requirements for quality of experience management of video used for surveillance</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15519" title="See more details">M.3366 (04/2023)</a></nobr></td><td>Requirements for management of blockchain systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15515" title="See more details">M.3367 (04/2023)</a></nobr></td><td>Requirements for robot-based on-site smart patrol of telecommunication networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13064" title="See more details">M.3371 (10/2016)</a></nobr></td><td>Requirements for service management in cloud-aware telecommunication management system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13687" title="See more details">M.3372 (08/2018)</a></nobr></td><td>Requirements for resource management in cloud-aware telecommunication management systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14428" title="See more details">M.3373 (10/2020)</a></nobr></td><td>Requirements for synergy management of cloud and SDN-based networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14834" title="See more details">M.3381 (01/2022)</a></nobr></td><td>Requirements for energy saving management of 5G radio access network (RAN) systems with artificial intelligence (AI)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14993" title="See more details">M.3382 (06/2022)</a></nobr></td><td>Requirements for work order processing in telecom management with artificial intelligence</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15516" title="See more details">M.3383 (04/2023)</a></nobr></td><td>Requirements for log analysis in telecom management with artificial intelligence</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15517" title="See more details">M.3384 (04/2023)</a></nobr></td><td>Intelligence levels of artificial intelligence enhanced telecom operation and management</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15518" title="See more details">M.3385 (04/2023)</a></nobr></td><td>Intelligence levels evaluation framework of artificial intelligence enhanced telecom operation and management</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15772" title="See more details">M.3386 (01/2024)</a></nobr></td><td>Requirements for the management of network operation cost within AI enhanced Telecom Operation and Management (AITOM) in telecommunication operational aspects</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15786" title="See more details">M.3387 (03/2024)</a></nobr></td><td>Management requirements for federated machine learning systems
+</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4876" title="See more details">M.3400 (02/2000)</a></nobr></td><td>TMN management functions</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9526" title="See more details">M.3410 (08/2008)</a></nobr></td><td>Guidelines and requirements for security management systems to support telecommunications management</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1533" title="See more details">M.3600 (10/1992)</a></nobr></td><td>Principles for the management of ISDNs</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1534" title="See more details">M.3602 (10/1992)</a></nobr></td><td>Application of maintenance principles to ISDN subscriber installations</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1535" title="See more details">M.3603 (10/1992)</a></nobr></td><td>Application of maintenance principles to ISDN basic rate access</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1536" title="See more details">M.3604 (10/1992)</a></nobr></td><td>Application of maintenance principles to ISDN primary rate access</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1537" title="See more details">M.3605 (10/1992)</a></nobr></td><td>Application of maintenance principles to static multiplexed ISDN basic rate access</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3362" title="See more details">M.3610 (05/1996)</a></nobr></td><td>Principles for applying the TMN concept to the management of B-ISDN</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4042" title="See more details">M.3611 (04/1997)</a></nobr></td><td>Test management of the B-ISDN ATM layer using the TMN</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1538" title="See more details">M.3620 (10/1992)</a></nobr></td><td>Principles for the use of ISDN test calls, systems and responders</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1539" title="See more details">M.3621 (07/1995)</a></nobr></td><td>Integrated management of the ISDN customer access</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1540" title="See more details">M.3640 (10/1992)</a></nobr></td><td>Management of the D-channel – Data link layer and network layer</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1541" title="See more details">M.3641 (10/1994)</a></nobr></td><td>Management information model for the management of the data link and network layer of the ISDN D-channel</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4043" title="See more details">M.3650 (04/1997)</a></nobr></td><td>Network performance measurements of ISDN calls</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1542" title="See more details">M.3660 (10/1992)</a></nobr></td><td>ISDN interface management services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10682" title="See more details">M.3700 (01/2010)</a></nobr></td><td>Common management services - Object management - Protocol neutral requirements and analysis</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10684" title="See more details">M.3701 (01/2010)</a></nobr></td><td>Common management services - State management - Protocol neutral requirements and analysis</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10685" title="See more details">M.3702 (01/2010)</a></nobr></td><td>Common management services - Notification management - Protocol neutral requirement and analysis</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10862" title="See more details">M.3703 (06/2010)</a></nobr></td><td>Common management services - Alarm management – Protocol neutral requirements and analysis</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10686" title="See more details">M.3704 (01/2010)</a></nobr></td><td>Common management service - Performance management - Protocol neutral requirements and analysis</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11898" title="See more details">M.3705 (03/2013)</a></nobr></td><td>Common management services - Log management - Protocol neutral requirements and analysis</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12045" title="See more details">M.3706 (11/2013)</a></nobr></td><td>Common management services - Test Management - Protocol Neutral Requirements and Analysis</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12046" title="See more details">M.3710 (11/2013)</a></nobr></td><td>Overview of an automated service test to support cost-efficient telecom service assurance</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1547" title="See more details">M.4010 (10/1992)</a></nobr></td><td>Inter-Administration agreements on common channel Signalling System No. 6</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1549" title="See more details">M.4030 (10/1992)</a></nobr></td><td>Transmission characteristics for setting up and lining up a transfer link for common channel Signalling System N° 6 (analogue version)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3355" title="See more details">M.4100 (05/1996)</a></nobr></td><td>Maintenance of common channel Signalling System No. 7</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3356" title="See more details">M.4110 (05/1996)</a></nobr></td><td>Inter-Administration agreements on common channel Signalling System No. 7</td><td align="center"><nobr>In force</nobr></td>
+		</tr>
+	</table>
+</div>

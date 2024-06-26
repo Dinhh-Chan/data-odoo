@@ -1,0 +1,105 @@
+<table width="98%" border="0" cellspacing="0" cellpadding="5"><tr><td colspan="2" style="text-align: center; font-family: verdana; font-size: 9pt;"><b>ITU-T Recommendations report</b></td></tr><tr><td width="10%" style="font-family: verdana; font-size: 8pt;"><i>Record(s) found:</i></td><td style="text-align: left; font-family: verdana; font-size: 8pt;">49</td></tr><tr><td colspan="2" style="font-family: verdana; font-size: 8pt;"><i>Report generated at 2024-06-26 02:30:47Z</i></td></tr></table><br/><div>
+	<table cellspacing="0" cellpadding="6" rules="all" border="1" id="ctl00_content_result_grd_result" style="background-color:White;border-color:LightGrey;border-width:1px;border-style:Solid;font-family:Verdana;font-size:8pt;width:750px;border-collapse:collapse;">
+		<tr style="background-color:#F1F1F1;">
+			<th align="center" scope="col" style="color:Blue;font-weight:normal;">Rec.</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Title</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Status</th>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2644" title="See more details">U.1 (03/1993)</a></nobr></td><td>Signalling conditions to be applied in the international telex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2655" title="See more details">U.2 (11/1988)</a></nobr></td><td>Standardization of dials and dial pulse generators for the international telex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2676" title="See more details">U.3 (11/1988)</a></nobr></td><td>Arrangements in switching equipment to minimize the effects of false calling signals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2679" title="See more details">U.4 (11/1988)</a></nobr></td><td>Exchange of information regarding signals destined to be used over international circuits concerned with switched teleprinter networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2688" title="See more details">U.5 (11/1988)</a></nobr></td><td>Requirements to be met by regenerative repeaters in international connections</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2689" title="See more details">U.6 (11/1988)</a></nobr></td><td>Prevention of fraudulent transit traffic in the fully automatic international telex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2697" title="See more details">U.7 (03/1993)</a></nobr></td><td>Numbering schemes for automatic switching networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2702" title="See more details">U.8 (11/1988)</a></nobr></td><td>Hypothetical reference connections for telex and gentex networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2646" title="See more details">U.10 (03/1993)</a></nobr></td><td>Equipment of an international telex position</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2649" title="See more details">U.11 (03/1993)</a></nobr></td><td>Telex and gentex signalling on intercontinental circuits used for intercontinental automatic transit traffic (type C signalling)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2651" title="See more details">U.12 (03/1993)</a></nobr></td><td>Terminal and transit control signalling system for telex and similar services on international circuits (type D signalling)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2654" title="See more details">U.15 (03/1993)</a></nobr></td><td>Interworking rules for international signalling systems according to Recommendations U.1, U.11 and U.12</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2656" title="See more details">U.20 (11/1988)</a></nobr></td><td>Telex and gentex signalling on radio channels (synchronous 7-unit systems affording error correction by automatic repetition)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2669" title="See more details">U.21 (11/1988)</a></nobr></td><td>Operator recall on a telex call set up on a radiotelegraph circuit</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2671" title="See more details">U.22 (11/1988)</a></nobr></td><td>Signals indicating delay in transmission on calls set up by means of synchronous systems with automatic error correction by repetition</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2673" title="See more details">U.23 (11/1988)</a></nobr></td><td>Use of radiotelegraph circuits with ARQ equipment for fully automatic telex calls charged on the basis of elapsed time</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2674" title="See more details">U.24 (11/1988)</a></nobr></td><td>Requirements for telex and gentex operation to be met by synchronous multiplex equipment described in Recommendation R.44</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2675" title="See more details">U.25 (11/1988)</a></nobr></td><td>Requirements for telex and gentex operation to be met by code- and speed-dependent TDM systems conforming to Recommendation R.101</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2677" title="See more details">U.30 (11/1988)</a></nobr></td><td>Signalling conditions for use in the international gentex network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2678" title="See more details">U.31 (11/1988)</a></nobr></td><td>Prevention of connection to faulty stations and/or station lines in the gentex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2681" title="See more details">U.40 (03/1993)</a></nobr></td><td>Reactions by automatic terminals connected to the telex network in the event of ineffective call attempts or signalling incidents</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2682" title="See more details">U.41 (11/1988)</a></nobr></td><td>Changed address interception and call redirection in the telex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2683" title="See more details">U.43 (11/1988)</a></nobr></td><td>Follow-on calls</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2684" title="See more details">U.44 (11/1988)</a></nobr></td><td>Multi-address calls in real time for broadcast purposes in the international telex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2686" title="See more details">U.45 (03/1993)</a></nobr></td><td>Response to the not-ready condition of the telex terminal</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2687" title="See more details">U.46 (03/1993)</a></nobr></td><td>Interruption of automatic transmission and flow control in the international telex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2690" title="See more details">U.60 (11/1988)</a></nobr></td><td>General requirements to be met in interfacing the international telex network with maritime satellite systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2692" title="See more details">U.61 (03/1993)</a></nobr></td><td>Detailed requirements to be met in interfacing the international telex network with maritime satellite systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2694" title="See more details">U.62 (03/1993)</a></nobr></td><td>General requirements to be met in interfacing the international telex network with the fully automated maritime VHF/UHF radio system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2695" title="See more details">U.63 (11/1988)</a></nobr></td><td>General requirements to be met in interfacing the international telex network with the maritime "direct printing" system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2698" title="See more details">U.70 (11/1988)</a></nobr></td><td>Telex service signals for telex to teletex interworking</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2699" title="See more details">U.74 (11/1988)</a></nobr></td><td>Extraction of telex selection information from a calling telex answerback</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2701" title="See more details">U.75 (03/1993)</a></nobr></td><td>Automatic called telex answerback check</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2704" title="See more details">U.80 (03/1993)</a></nobr></td><td>International telex store and forward access from a telex subscriber</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3861" title="See more details">U.81 (10/1996)</a></nobr></td><td>International telex store-and-forward – Delivery to a telex subscriber</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2647" title="See more details">U.101 (03/1993)</a></nobr></td><td>Signalling systems for the Intex service (types E and F signalling)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3390" title="See more details">U.102 (07/1996)</a></nobr></td><td>Intex and similar services – Network requirements to effect interworking between terminals operating at different speeds</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2652" title="See more details">U.140 (11/1988)</a></nobr></td><td>Definitions of essential technical terms relating to telegraph switching and signalling</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2657" title="See more details">U.200 (03/1993)</a></nobr></td><td>The international telex service – General technical requirements for interworking</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2659" title="See more details">U.201 (03/1993)</a></nobr></td><td>Interworking between the teletex service and the international telex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2661" title="See more details">U.202 (03/1993)</a></nobr></td><td>Technical requirements to be met in providing the international telex service within an integrated services digital network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2662" title="See more details">U.203 (03/1993)</a></nobr></td><td>Technical requirements to be met when providing real-time bothway communications between terminals of the international telex service and data terminal equipments on a PSPDN or via the PSTN</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2664" title="See more details">U.204 (03/1993)</a></nobr></td><td>Interworking between the international telex service and the public interpersonal messaging service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2665" title="See more details">U.205 (03/1993)</a></nobr></td><td>Store-and-retrieve facility for the delivery of messages from a terminal of the international telex service to a data terminal equipment which connects to a packet-switched public data network over the public switched telephone network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2666" title="See more details">U.206 (03/1993)</a></nobr></td><td>Technical requirements for interworking between the international telex service and the videotex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2667" title="See more details">U.207 (03/1993)</a></nobr></td><td>Technical requirements to be met for the transfer of messages between terminals of the international telex service and Group 3 facsimile terminals connected to the PSTN</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3862" title="See more details">U.208 (10/1996)</a></nobr></td><td>The international telex service – Interworking with the INMARSAT C system using one-stage selection</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2670" title="See more details">U.210 (03/1993)</a></nobr></td><td>Intex service network requirements to effect interworking with the international telex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2672" title="See more details">U.220 (03/1993)</a></nobr></td><td>The international telex service – Technical requirements for a status enquiry function in an interworking scenario</td><td align="center"><nobr>In force</nobr></td>
+		</tr>
+	</table>
+</div>

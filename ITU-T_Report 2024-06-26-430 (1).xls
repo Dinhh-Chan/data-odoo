@@ -1,0 +1,71 @@
+<table width="98%" border="0" cellspacing="0" cellpadding="5"><tr><td colspan="2" style="text-align: center; font-family: verdana; font-size: 9pt;"><b>ITU-T Recommendations report</b></td></tr><tr><td width="10%" style="font-family: verdana; font-size: 8pt;"><i>Record(s) found:</i></td><td style="text-align: left; font-family: verdana; font-size: 8pt;">32</td></tr><tr><td colspan="2" style="font-family: verdana; font-size: 8pt;"><i>Report generated at 2024-06-26 02:30:26Z</i></td></tr></table><br/><div>
+	<table cellspacing="0" cellpadding="6" rules="all" border="1" id="ctl00_content_result_grd_result" style="background-color:White;border-color:LightGrey;border-width:1px;border-style:Solid;font-family:Verdana;font-size:8pt;width:750px;border-collapse:collapse;">
+		<tr style="background-color:#F1F1F1;">
+			<th align="center" scope="col" style="color:Blue;font-weight:normal;">Rec.</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Title</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Status</th>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14643" title="See more details">SEC-QKD (2020) Cor. 1 (04/2021)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2441" title="See more details">S.1 (03/1993)</a></nobr></td><td>International Telegraph Alphabet No. 2</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2454" title="See more details">S.2 (11/1988)</a></nobr></td><td>Coding scheme using International Telegraph Alphabet No. 2 (ITA2) to allow the transmission of capital and small letters</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2463" title="See more details">S.3 (11/1988)</a></nobr></td><td>Transmission characteristics of the local end with its termination (ITA2)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2471" title="See more details">S.4 (03/1993)</a></nobr></td><td>Special use of certain characters of the International Telegraph Alphabet No. 2</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2472" title="See more details">S.5 (11/1988)</a></nobr></td><td>Standardization of page-printing start-stop equipment and cooperation between page-printing and tape-printing start-stop equipment (ITA2)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2473" title="See more details">S.6 (11/1988)</a></nobr></td><td>Characteristics of answerback units (ITA2)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2474" title="See more details">S.7 (11/1988)</a></nobr></td><td>Control of teleprinter motors</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2476" title="See more details">S.8 (03/1993)</a></nobr></td><td>Intercontinental standardization of the modulation rate of start-stop apparatus and of the use of combination No. 4 in figure-shift</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2477" title="See more details">S.9 (11/1988)</a></nobr></td><td>Switching equipment of start-stop apparatus</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2442" title="See more details">S.10 (11/1988)</a></nobr></td><td>Transmission at reduced character transfer rate over a standardized 50-baud telegraph channel</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2443" title="See more details">S.11 (11/1988)</a></nobr></td><td>Use of start-stop reperforating equipment for perforated tape retransmission</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2444" title="See more details">S.12 (11/1988)</a></nobr></td><td>Conditions that must be satisfied by synchronous systems operating in connection with standard 50-baud teleprinter circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2445" title="See more details">S.13 (11/1988)</a></nobr></td><td>Use on radio circuits of 7-unit synchronous systems giving error correction by automatic repetition</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2446" title="See more details">S.14 (11/1988)</a></nobr></td><td>Suppression of unwanted reception in radiotelegraph multi-destination teleprinter systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2448" title="See more details">S.15 (11/1988)</a></nobr></td><td>Use of the telex network for data transmission at 50 bauds</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2450" title="See more details">S.16 (03/1993)</a></nobr></td><td>Connection to the telex network of an automatic terminal using a V.24 DCE/DTE interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2451" title="See more details">S.17 (11/1988)</a></nobr></td><td>Answer-back unit simulators</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2452" title="See more details">S.18 (11/1988)</a></nobr></td><td>Conversion between International Telegraph Alphabet No. 2 and International Alphabet No. 5</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2453" title="See more details">S.19 (11/1988)</a></nobr></td><td>Calling and answering in the telex network with automatic terminal equipment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2456" title="See more details">S.20 (03/1993)</a></nobr></td><td>Automatic clearing procedure for a telex terminal</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2458" title="See more details">S.21 (03/1993)</a></nobr></td><td>Use of display screens in telex machines</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2460" title="See more details">S.22 (03/1993)</a></nobr></td><td>"Conversation impossible" and or pre-recorded message in response to J/BELL signals from a telex terminal</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2462" title="See more details">S.23 (03/1993)</a></nobr></td><td>Automatic request of the answerback of the terminal of the calling party, by the telex terminal of the called party or by the international network</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2464" title="See more details">S.30 (11/1988)</a></nobr></td><td>Standardization of basic model page-printing machine using International Alphabet No. 5</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2465" title="See more details">S.31 (11/1988)</a></nobr></td><td>Transmission characteristics for start-stop data terminal equipment using International Alphabet No. 5</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2466" title="See more details">S.32 (11/1988)</a></nobr></td><td>Answer-back units for 200- and 300-baud start-stop machines in accordance with Recommendation S.30</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2467" title="See more details">S.33 (03/1993)</a></nobr></td><td>Alphabets and presentation characteristics for the intex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2468" title="See more details">S.34 (03/1993)</a></nobr></td><td>Intex terminals – Requirements to effect interworking with the international telex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2469" title="See more details">S.35 (03/1993)</a></nobr></td><td>Answerback coding for the Intex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3389" title="See more details">S.36 (07/1996)</a></nobr></td><td>Intex and similar services – Terminal requirements to effect interworking between terminals operating at different speeds</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2447" title="See more details">S.140 (11/1988)</a></nobr></td><td>Definitions of essential technical terms relating to apparatus for alphabetic telegraphy</td><td align="center"><nobr>In force</nobr></td>
+		</tr>
+	</table>
+</div>

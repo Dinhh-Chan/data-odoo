@@ -1,0 +1,151 @@
+<table width="98%" border="0" cellspacing="0" cellpadding="5"><tr><td colspan="2" style="text-align: center; font-family: verdana; font-size: 9pt;"><b>ITU-T Recommendations report</b></td></tr><tr><td width="10%" style="font-family: verdana; font-size: 8pt;"><i>Record(s) found:</i></td><td style="text-align: left; font-family: verdana; font-size: 8pt;">72</td></tr><tr><td colspan="2" style="font-family: verdana; font-size: 8pt;"><i>Report generated at 2024-06-26 02:30:10Z</i></td></tr></table><br/><div>
+	<table cellspacing="0" cellpadding="6" rules="all" border="1" id="ctl00_content_result_grd_result" style="background-color:White;border-color:LightGrey;border-width:1px;border-style:Solid;font-family:Verdana;font-size:8pt;width:750px;border-collapse:collapse;">
+		<tr style="background-color:#F1F1F1;">
+			<th align="center" scope="col" style="color:Blue;font-weight:normal;">Rec.</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Title</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Status</th>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2386" title="See more details">R.2 (11/1988)</a></nobr></td><td>Element error rate</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2397" title="See more details">R.4 (11/1988)</a></nobr></td><td>Methods for the separate measurements of the degrees of various types of telegraph distortion</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2403" title="See more details">R.5 (03/1993)</a></nobr></td><td>Observation conditions recommended for routine distortion measurements on international telegraph circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2437" title="See more details">R.9 (03/1993)</a></nobr></td><td>How the laws governing distribution of distortion should be arrived at</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2368" title="See more details">R.11 (03/1993)</a></nobr></td><td>Calculation of the degree of distortion of a telegraph circuit in terms of the degrees of distortion of the component links</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2387" title="See more details">R.20 (11/1988)</a></nobr></td><td>Telegraph modem for subscriber lines</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3711" title="See more details">R.21 (08/1996)</a></nobr></td><td>9600 bit/s modem standardized for use in the telegraph TDM system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3712" title="See more details">R.22 (08/1996)</a></nobr></td><td>Data over voice 19 200 bit/s modem standardized for use on telephone network subscriber lines</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2388" title="See more details">R.30 (11/1988)</a></nobr></td><td>Transmission characteristic for international VFT links</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2389" title="See more details">R.31 (11/1988)</a></nobr></td><td>Standardization of AMVFT systems for a modulation rate of 50 bauds</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2390" title="See more details">R.35 (11/1988)</a></nobr></td><td>Standardization of FMVFT systems for a modulation rate of 50 bauds</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2391" title="See more details">R.35 bis (11/1988)</a></nobr></td><td>50-baud wideband VFT systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2392" title="See more details">R.36 (11/1988)</a></nobr></td><td>Coexistence of 50-baud/120-Hz channels, 100-baud/240-Hz channels, 200-baud/360-Hz or 480-Hz channels on the same voice-frequency telegraph system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2393" title="See more details">R.37 (11/1988)</a></nobr></td><td>Standardization of FMVFT systems for a modulation rate of 100 bauds</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2394" title="See more details">R.38 A (11/1988)</a></nobr></td><td>Standardization of FMVFT system for a modulation rate of 200 bauds with channels spaced at 480 Hz</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2395" title="See more details">R.38 B (11/1988)</a></nobr></td><td>Standardization of FMVFT systems for a modulation rate of 200 bauds with channels spaced at 360 Hz usable on long intercontinental bearer circuits generally used with a 3-kHz spacing</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2396" title="See more details">R.39 (11/1988)</a></nobr></td><td>Voice-frequency telegraphy on radio circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2398" title="See more details">R.40 (11/1988)</a></nobr></td><td>Coexistence in the same cable of telephony and super-telephone telegraphy</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4008" title="See more details">R.43 (11/1988)</a></nobr></td><td>Simultaneous communication by telephone and telegraph on a telephone-type circuit</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2400" title="See more details">R.44 (11/1988)</a></nobr></td><td>6-unit synchronous time-division 2-3-channel multiplex telegraph system for use over FMVFT channels spaced at 120 Hz for connection to standardized teleprinter networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2401" title="See more details">R.49 (11/1988)</a></nobr></td><td>Interband telegraphy over open-wire 3-channel carrier systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2404" title="See more details">R.50 (11/1988)</a></nobr></td><td>Tolerable limits for the degree of isochronous distortion of code-independent 50-baud telegraph circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2405" title="See more details">R.51 (11/1988)</a></nobr></td><td>Standardized text for distortion testing of the code-independent elements of a complete circuit</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2406" title="See more details">R.51 bis (11/1988)</a></nobr></td><td>Standardized text for testing the elements of a complete circuit</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2407" title="See more details">R.52 (11/1988)</a></nobr></td><td>Standardization of international texts for the measurement of the margin of start-stop equipment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2408" title="See more details">R.53 (11/1988)</a></nobr></td><td>Permissible limits for the degree of distortion on an international 50-baud/120-Hz VFT channel (frequency and amplitude modulation)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2410" title="See more details">R.54 (03/1993)</a></nobr></td><td>Conventional degree of distortion tolerable for standardized start-stop 50-baud systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2412" title="See more details">R.55 (03/1993)</a></nobr></td><td>Conventional degree of distortion</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2413" title="See more details">R.56 (03/1993)</a></nobr></td><td>Telegraph distortion limits to be quoted in Recommendations for equipment and transmission plans</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2414" title="See more details">R.57 (11/1988)</a></nobr></td><td>Standard limits of transmission quality for planning code-independent international point-to-point telegraph communications and switched networks using 50-baud start-stop equipment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2415" title="See more details">R.58 (11/1988)</a></nobr></td><td>Standard limits of transmission quality for the gentex and telex networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2416" title="See more details">R.58 bis (11/1988)</a></nobr></td><td>Limits on signal transfer delay for telegraph, telex and gentex networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2417" title="See more details">R.59 (11/1988)</a></nobr></td><td>Interface requirements for 50-baud start-stop telegraph transmission in the maritime mobile satellite service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2418" title="See more details">R.60 (11/1988)</a></nobr></td><td>Conditions to be fulfilled by regenerative repeaters for start-stop signals of International Telegraph Alphabet No. 2</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2419" title="See more details">R.62 (11/1988)</a></nobr></td><td>Siting of regenerative repeaters in international telex circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2420" title="See more details">R.70 (11/1988)</a></nobr></td><td>Designation of international telegraph circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2421" title="See more details">R.70 bis (11/1988)</a></nobr></td><td>Numbering of international VFT channels</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2422" title="See more details">R.71 (11/1988)</a></nobr></td><td>Organization of the maintenance of international telegraph circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2423" title="See more details">R.72 (11/1988)</a></nobr></td><td>Periodicity of maintenance measurements to be carried out on the channels of international VFT systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2424" title="See more details">R.73 (11/1988)</a></nobr></td><td>Maintenance measurements to be carried out on VFT systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2425" title="See more details">R.74 (11/1988)</a></nobr></td><td>Choice of type of telegraph distortion-measuring equipment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2426" title="See more details">R.75 (11/1988)</a></nobr></td><td>Maintenance measurements on code-independent international sections of international telegraph circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2427" title="See more details">R.75 bis (11/1988)</a></nobr></td><td>Maintenance measurements of character error rate on international sections of international telegraph circuits</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2428" title="See more details">R.76 (11/1988)</a></nobr></td><td>Reserve channels for maintenance measurements on channels of international VFT systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2429" title="See more details">R.77 (11/1988)</a></nobr></td><td>Use of bearer circuits for voice-frequency telegraphy</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2430" title="See more details">R.78 (11/1988)</a></nobr></td><td>Pilot channel for AMVFT systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2431" title="See more details">R.79 (11/1988)</a></nobr></td><td>Automatic tests of transmission quality on telegraph circuits between switching centres</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2432" title="See more details">R.80 (11/1988)</a></nobr></td><td>Causes of disturbances to signals in VFT channels and their effect on telegraph distortion</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2433" title="See more details">R.81 (11/1988)</a></nobr></td><td>Maximum acceptable limit for the duration of interruption of telegraph channels arising from failure of the normal power supplies</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2434" title="See more details">R.82 (11/1988)</a></nobr></td><td>Appearance of false calling and clearing signals in circuits operated by switched teleprinter services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2435" title="See more details">R.83 (11/1988)</a></nobr></td><td>Changes of level and interruptions in VFT channels</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2438" title="See more details">R.90 (11/1988)</a></nobr></td><td>Organization for locating and clearing faults in international telegraph switched networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2439" title="See more details">R.91 (11/1988)</a></nobr></td><td>General maintenance aspects for the maritime satellite telex service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2358" title="See more details">R.100 (03/1993)</a></nobr></td><td>Transmission characteristics of international TDM links</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2360" title="See more details">R.101 (03/1993)</a></nobr></td><td>Code and speed dependent TDM system for anisochronous telegraph and data transmission using bit interleaving</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2362" title="See more details">R.102 (03/1993)</a></nobr></td><td>4800 bit/s code and speed dependent and hybrid TDM systems for anisochronous telegraph and data transmission using bit interleaving</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2363" title="See more details">R.103 (11/1988)</a></nobr></td><td>Code and speed-dependent TDM 600 bit/s system for use in point-to-point or branch-line muldex configurations</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2365" title="See more details">R.105 (03/1993)</a></nobr></td><td>Duplex muldex concentrator, connecting a group of gentex and telex subscribers to a telegraph exchange by assigning virtual channels to time slots of a bit-interleaved TDM system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2366" title="See more details">R.106 (08/1995)</a></nobr></td><td>Muldex unit for telegraph and low speed data transmission using TDM bit interleaving with an aggregate bit rate higher than 4800 bit/s</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2370" title="See more details">R.111 (03/1993)</a></nobr></td><td>Code and speed independent TDM system for anisochronous telegraph and data transmission</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2372" title="See more details">R.112 (03/1993)</a></nobr></td><td>TDM hybrid system for anisochronous telegraph and data transmission using bit interleaving</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2373" title="See more details">R.113 (03/1993)</a></nobr></td><td>Combined muldex for telegraphy and synchronous data transmission</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2375" title="See more details">R.114 (03/1993)</a></nobr></td><td>Numbering of international TDM channels</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2377" title="See more details">R.115 (03/1993)</a></nobr></td><td>Maintenance loops for TDM-systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2378" title="See more details">R.116 (11/1988)</a></nobr></td><td>Maintenance tests to be carried out on international TDM systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2379" title="See more details">R.117 (03/1993)</a></nobr></td><td>End-to-end error performance for telegraph, telex and gentex connections involving regenerative equipment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2380" title="See more details">R.118 (03/1993)</a></nobr></td><td>Performance and availability monitoring in regenerative TDM</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2381" title="See more details">R.120 (11/1988)</a></nobr></td><td>Tolerable limits for the degree of isochronous distortion of code-independent telegraph circuits operating at modulation rates of 75, 100 and 200 bauds</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2382" title="See more details">R.121 (11/1988)</a></nobr></td><td>Standard limits of transmission quality for start-stop user classes of service 1 and 2 on anisochronous data networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2383" title="See more details">R.122 (11/1988)</a></nobr></td><td>Summary of transmission plans for rates up to 300 bauds</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2384" title="See more details">R.140 (11/1988)</a></nobr></td><td>Definitions of essential technical terms in the field of telegraph transmission</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=2385" title="See more details">R.150 (11/1988)</a></nobr></td><td>Automatic protection switching of dual diversity bearers</td><td align="center"><nobr>In force</nobr></td>
+		</tr>
+	</table>
+</div>

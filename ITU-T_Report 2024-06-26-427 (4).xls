@@ -1,0 +1,831 @@
+<table width="98%" border="0" cellspacing="0" cellpadding="5"><tr><td colspan="2" style="text-align: center; font-family: verdana; font-size: 9pt;"><b>ITU-T Recommendations report</b></td></tr><tr><td width="10%" style="font-family: verdana; font-size: 8pt;"><i>Record(s) found:</i></td><td style="text-align: left; font-family: verdana; font-size: 8pt;">412</td></tr><tr><td colspan="2" style="font-family: verdana; font-size: 8pt;"><i>Report generated at 2024-06-26 02:27:50Z</i></td></tr></table><br/><div>
+	<table cellspacing="0" cellpadding="6" rules="all" border="1" id="ctl00_content_result_grd_result" style="background-color:White;border-color:LightGrey;border-width:1px;border-style:Solid;font-family:Verdana;font-size:8pt;width:750px;border-collapse:collapse;">
+		<tr style="background-color:#F1F1F1;">
+			<th align="center" scope="col" style="color:Blue;font-weight:normal;">Rec.</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Title</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Status</th>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1050" title="See more details">H.100 (11/1988)</a></nobr></td><td>Visual telephone systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1052" title="See more details">H.110 (11/1988)</a></nobr></td><td>Hypothetical reference connections for videoconferencing using primary digital group transmission</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1055" title="See more details">H.120 (03/1993)</a></nobr></td><td>Codecs for videoconferencing using primary digital group transmission</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11907" title="See more details">H.120 (1993) Err. 1 (03/2013)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1057" title="See more details">H.130 (11/1988)</a></nobr></td><td>Frame structures for use in the international interconnection of digital codecs for videoconferencing or visual telephony</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1059" title="See more details">H.140 (11/1988)</a></nobr></td><td>A multipoint international videoconference system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1063" title="See more details">H.200 (03/1993)</a></nobr></td><td>Framework for Recommendations for audiovisual services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9690" title="See more details">H.221 (03/2009)</a></nobr></td><td>Frame structure for a 64 to 1920 kbit/s channel in audiovisual teleservices</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15655" title="See more details">H.222.0 v9 (08/2023)</a></nobr></td><td>Information technology - Generic coding of moving pictures and associated audio information: Systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3335" title="See more details">H.222.1 (03/1996)</a></nobr></td><td>Multimedia multiplex and synchronization for audiovisual communication in ATM environments</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5513" title="See more details">H.223 (07/2001)</a></nobr></td><td>Multiplexing protocol for low bit rate multimedia communication</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7438" title="See more details">H.224 (01/2005)</a></nobr></td><td>A real time control protocol for simplex applications using the H.221 LSD/HSD/MLP channels</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9215" title="See more details">H.224 (2005) Cor. 1 (08/2007)</a></nobr></td><td>Corrections to the CME client list message</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14946" title="See more details">H.225.0 (V8) (03/2022)</a></nobr></td><td>Call signalling protocols and media stream packetization for packet-based multimedia communication systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4495" title="See more details">H.226 (09/1998)</a></nobr></td><td>Channel aggregation protocol for multilink operation on circuit-switched networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13901" title="See more details">H.230 (05/2019)</a></nobr></td><td>Frame-synchronous control and indication signals for audiovisual systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4144" title="See more details">H.231 (07/1997)</a></nobr></td><td>Multipoint control units for audiovisual systems using digital channels up to 1920 kbit/s</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6161" title="See more details">H.233 (11/2002)</a></nobr></td><td>Confidentiality system for audiovisual services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6162" title="See more details">H.234 (11/2002)</a></nobr></td><td>Encryption key management and authentication system for audiovisual services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12058" title="See more details">H.235.0 (01/2014)</a></nobr></td><td>H.323 security: Framework for security in ITU-T H-series (ITU-T H.323 and other ITU-T H.245-based) multimedia systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8593" title="See more details">H.235.1 (09/2005)</a></nobr></td><td>H.323 security: Baseline security profile</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8594" title="See more details">H.235.2 (09/2005)</a></nobr></td><td>H.323 security: Signature security profile</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8595" title="See more details">H.235.3 (09/2005)</a></nobr></td><td>H.323 security: Hybrid security profile</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8596" title="See more details">H.235.4 (09/2005)</a></nobr></td><td>H.323 security: Direct and selective routed call security</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8597" title="See more details">H.235.5 (09/2005)</a></nobr></td><td>H.323 security: Framework for secure authentication in RAS using weak shared secrets</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12059" title="See more details">H.235.6 (01/2014)</a></nobr></td><td>H.323 security: Encryption profile with native ITU-T H.235/H.245 key management</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8599" title="See more details">H.235.7 (09/2005)</a></nobr></td><td>H.323 security: Usage of the MIKEY key management protocol for the Secure Real Time Transport Protocol (SRTP) within H.235</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8957" title="See more details">H.235.7 (2005) Err. 1 (10/2006)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8600" title="See more details">H.235.8 (09/2005)</a></nobr></td><td>H.323 security: Key exchange for SRTP using secure signalling channels</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8601" title="See more details">H.235.9 (09/2005)</a></nobr></td><td>H.323 security: Security gateway support for H.323</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14968" title="See more details">H.235.10 (03/2022)</a></nobr></td><td>H.323 security: Support of datagram transport layer security (DTLS) for media streams</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12235" title="See more details">H.239 (10/2014)</a></nobr></td><td>Role management and additional media channels for ITU-T H.300-series terminals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11538" title="See more details">H.241 (02/2012)</a></nobr></td><td>Extended video procedures and control signals for ITU-T H.300-series terminals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11656" title="See more details">H.241 (2012) Amd. 1 (06/2012)</a></nobr></td><td>Support for Constrained High, Scalable Constrained Baseline and Scalable Constrained High ITU-T H.264 profiles</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9695" title="See more details">H.242 (03/2009)</a></nobr></td><td>System for establishing communication between audiovisual terminals using digital channels up to 2 Mbit/s</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13902" title="See more details">H.243 (05/2019)</a></nobr></td><td>Procedures for establishing communication between three or more audiovisual terminals using digital channels up to 1920 kbit/s</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1085" title="See more details">H.244 (07/1995)</a></nobr></td><td>Synchronized aggregation of multiple 64 or 56 kbit/s channels</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14947" title="See more details">H.245 v17 (03/2022)</a></nobr></td><td>Control protocol for multimedia communication</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15212" title="See more details">H.245 v17 (2022) Cor. 1 (12/2022)</a></nobr></td><td>ASN.1 error corrections</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8807" title="See more details">H.246 (05/2006)</a></nobr></td><td>Interworking of H-series multimedia terminals with H-series multimedia terminals and voice/voiceband terminals on GSTN, ISDN and PLMN</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9026" title="See more details">H.246 (2006) Amd. 1 (01/2007)</a></nobr></td><td>Mapping of user priority level and country/international network of call origination between H.225 and ISUP</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4497" title="See more details">H.247 (09/1998)</a></nobr></td><td>Multipoint extension for broadband audiovisual communication systems and terminals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11853" title="See more details">H.248.1 v3 (03/2013)</a></nobr></td><td>Gateway control protocol: Version 3</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11852" title="See more details">H.248.2 (03/2013)</a></nobr></td><td>Gateway control protocol: Facsimile, text conversation and call discrimination packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11838" title="See more details">H.248.3 (03/2013)</a></nobr></td><td>Gateway control protocol: User interface elements and actions packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10628" title="See more details">H.248.4 (12/2009)</a></nobr></td><td>Gateway control protocol: Transport over Stream Control Transmission Protocol (SCTP)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10629" title="See more details">H.248.5 (12/2009)</a></nobr></td><td>Gateway control protocol: Transport over ATM</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6004" title="See more details">H.248.6 (11/2000)</a></nobr></td><td>Gateway control protocol: Dynamic Tone Definition package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7297" title="See more details">H.248.7 (03/2004)</a></nobr></td><td>Gateway control protocol: Generic Announcement package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11839" title="See more details">H.248.8 (03/2013)</a></nobr></td><td>Gateway control protocol: Error code and service change reason description</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10630" title="See more details">H.248.9 (12/2009)</a></nobr></td><td>Gateway control protocol: Advanced media server packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6008" title="See more details">H.248.10 (07/2001)</a></nobr></td><td>Gateway control protocol: Media gateway resource congestion handling package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11840" title="See more details">H.248.11 (03/2013)</a></nobr></td><td>Gateway control protocol: Media gateway overload control package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11539" title="See more details">H.248.12 (02/2012)</a></nobr></td><td>Gateway control protocol: ITU-T H.248.1 packages for ITU-T H.323 and ITU-T H.324 interworking</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6010" title="See more details">H.248.13 (03/2002)</a></nobr></td><td>Gateway control protocol: Quality Alert Ceasing package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9696" title="See more details">H.248.14 (03/2009)</a></nobr></td><td>Gateway control protocol: Inactivity timer package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11854" title="See more details">H.248.15 (03/2013)</a></nobr></td><td>Gateway control protocol: SDP ITU-T H.248 package attribute</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11841" title="See more details">H.248.16 (03/2013)</a></nobr></td><td>Gateway control protocol: Enhanced digit collection packages and procedures</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11842" title="See more details">H.248.17 (03/2013)</a></nobr></td><td>Gateway control protocol: Line test packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11843" title="See more details">H.248.18 (03/2013)</a></nobr></td><td>Gateway control protocol: Package for support of multiple profiles</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11844" title="See more details">H.248.19 (03/2013)</a></nobr></td><td>Gateway control protocol: Decomposed multipoint control unit, audio, video and data conferencing packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11845" title="See more details">H.248.20 (03/2013)</a></nobr></td><td>Gateway control protocol: The use of Local and Remote Descriptors with ITU-T H.221 and ITU-T H.223 multiplexing</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7221" title="See more details">H.248.21 (03/2004)</a></nobr></td><td>Gateway control protocol: Semi-permanent connection handling package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11846" title="See more details">H.248.22 (03/2013)</a></nobr></td><td>Gateway control protocol: Shared Risk Group package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11847" title="See more details">H.248.23 (03/2013)</a></nobr></td><td>Gateway control protocol: Enhanced Alerting packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6461" title="See more details">H.248.24 (07/2003)</a></nobr></td><td>Gateway control protocol: Multi-frequency tone generation and detection packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11848" title="See more details">H.248.25 (03/2013)</a></nobr></td><td>Gateway control protocol: Basic CAS packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11849" title="See more details">H.248.26 (03/2013)</a></nobr></td><td>Gateway control protocol: Enhanced analogue lines packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6464" title="See more details">H.248.27 (07/2003)</a></nobr></td><td>Gateway control protocol: Supplemental tones packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9029" title="See more details">H.248.28 (01/2007)</a></nobr></td><td>Gateway control protocol: International CAS packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11850" title="See more details">H.248.29 (03/2013)</a></nobr></td><td>Gateway control protocol: International CAS compelled register signalling packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9030" title="See more details">H.248.30 (01/2007)</a></nobr></td><td>Gateway control protocol: RTCP extended performance metrics packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9207" title="See more details">H.248.30 (2007) Err. 1 (06/2007)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7227" title="See more details">H.248.31 (04/2004)</a></nobr></td><td>Gateway control protocol: Adaptive jitter buffer package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11851" title="See more details">H.248.32 (03/2013)</a></nobr></td><td>Gateway control protocol: Detailed congestion reporting package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7448" title="See more details">H.248.33 (01/2005)</a></nobr></td><td>Gateway control protocol: PCM frame spare bit package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11540" title="See more details">H.248.34 (02/2012)</a></nobr></td><td>Gateway control protocol: Stimulus analogue line package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7450" title="See more details">H.248.35 (01/2005)</a></nobr></td><td>Gateway control protocol: Coin-operated phone control package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11836" title="See more details">H.248.36 (03/2013)</a></nobr></td><td>Gateway control protocol: Hanging Termination Detection package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9476" title="See more details">H.248.37 (06/2008)</a></nobr></td><td>Gateway control protocol: IP NAPT traversal package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8818" title="See more details">H.248.38 (05/2006)</a></nobr></td><td>Gateway control protocol: Base context package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12236" title="See more details">H.248.39 (10/2014)</a></nobr></td><td>Gateway control protocol: ITU-T H.248 SDP parameter identification and wildcarding</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11835" title="See more details">H.248.40 (03/2013)</a></nobr></td><td>Gateway control protocol: Application data inactivity detection package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12626" title="See more details">H.248.41 (11/2015)</a></nobr></td><td>Gateway control protocol: IP domain connection package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9698" title="See more details">H.248.42 (03/2009)</a></nobr></td><td>Gateway control protocol: DCME interworking package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9478" title="See more details">H.248.43 (06/2008)</a></nobr></td><td>Gateway control protocol: Packages for gate management and gate control</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9032" title="See more details">H.248.44 (01/2007)</a></nobr></td><td>Gateway control protocol: Multi-level precedence and pre-emption package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8822" title="See more details">H.248.45 (05/2006)</a></nobr></td><td>Gateway control protocol: MGC information package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9033" title="See more details">H.248.46 (01/2007)</a></nobr></td><td>Gateway control protocol: Connection capability control package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9236" title="See more details">H.248.46 (2007) Err. 1 (08/2007)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9479" title="See more details">H.248.47 (07/2008)</a></nobr></td><td>Gateway control protocol: Statistic conditional reporting package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11541" title="See more details">H.248.48 (02/2012)</a></nobr></td><td>Gateway control protocol: RTCP XR block reporting package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9221" title="See more details">H.248.49 (08/2007)</a></nobr></td><td>Gateway control protocol: Session description protocol RFC and capabilities packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12919" title="See more details">H.248.50 (07/2016)</a></nobr></td><td>Gateway control protocol: NAT traversal toolkit packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9222" title="See more details">H.248.51 (08/2007)</a></nobr></td><td>Gateway control protocol: Termination connection model package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9480" title="See more details">H.248.52 (06/2008)</a></nobr></td><td>Gateway control protocol: QoS support packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9699" title="See more details">H.248.52 (2008) Amd. 1 (03/2009)</a></nobr></td><td>Clarifications and updates to the differentiated services package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9700" title="See more details">H.248.53 (03/2009)</a></nobr></td><td>Gateway control protocol: Traffic management packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9223" title="See more details">H.248.54 (08/2007)</a></nobr></td><td>Gateway control protocol: MPLS support package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9482" title="See more details">H.248.55 (06/2008)</a></nobr></td><td>Gateway control protocol: Generic pull mode package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9224" title="See more details">H.248.56 (08/2007)</a></nobr></td><td>Gateway control protocol: Packages for virtual private network support</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9701" title="See more details">H.248.56 (2007) Cor. 1 (03/2009)</a></nobr></td><td>VLAN package clarifications</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12239" title="See more details">H.248.57 (10/2014)</a></nobr></td><td>Gateway control protocol: RTP control protocol package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9484" title="See more details">H.248.58 (06/2008)</a></nobr></td><td>Gateway control protocol: Packages for application level H.248 statistics</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9225" title="See more details">H.248.59 (08/2007)</a></nobr></td><td>Gateway control protocol: Event timestamp notification package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9702" title="See more details">H.248.60 (03/2009)</a></nobr></td><td>Gateway control protocol: Identification of content of communication</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11834" title="See more details">H.248.61 (03/2013)</a></nobr></td><td>Gateway control protocol: Packages for network level ITU-T H.248 statistics</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9485" title="See more details">H.248.62 (06/2008)</a></nobr></td><td>Gateway control protocol: Re-answer package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9704" title="See more details">H.248.63 (03/2009)</a></nobr></td><td>Gateway control protocol: Resource management packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11833" title="See more details">H.248.64 (03/2013)</a></nobr></td><td>Gateway control protocol: IP router packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9705" title="See more details">H.248.65 (03/2009)</a></nobr></td><td>Gateway control protocol: Support of the resource reservation protocol</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12634" title="See more details">H.248.66 (04/2016)</a></nobr></td><td>Gateway control protocol: Packages for RTSP and ITU-T H.248 interworking</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10632" title="See more details">H.248.67 (12/2009)</a></nobr></td><td>Gateway control protocol: Transport mode indication package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9706" title="See more details">H.248.68 (03/2009)</a></nobr></td><td>Gateway control protocol: Package for removal of digits and tones</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9707" title="See more details">H.248.69 (03/2009)</a></nobr></td><td>Gateway control protocol: Packages for interworking between MSRP and H.248</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9708" title="See more details">H.248.70 (03/2009)</a></nobr></td><td>Gateway control protocol: Dialling method information packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10633" title="See more details">H.248.71 (02/2010)</a></nobr></td><td>Gateway control protocol: RTCP support packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10634" title="See more details">H.248.72 (12/2009)</a></nobr></td><td>Gateway control protocol: ITU-T H.248 support for media-oriented negotiation acceleration (MONA)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10985" title="See more details">H.248.73 (09/2010)</a></nobr></td><td>Gateway control protocol: Packages for media server control markup language and ITU-T H.248 interworking</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12635" title="See more details">H.248.74 (04/2016)</a></nobr></td><td>Gateway control protocol: Media resource control enhancement packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11291" title="See more details">H.248.75 (05/2011)</a></nobr></td><td>Gateway control protocol: Package identifier publishing and application package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10986" title="See more details">H.248.76 (09/2010)</a></nobr></td><td>Gateway control protocol: Filter group package and guidelines</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13432" title="See more details">H.248.77 (12/2017)</a></nobr></td><td>Gateway control protocol: Secure real-time transport protocol (SRTP) package and procedures</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12642" title="See more details">H.248.78 (11/2015)</a></nobr></td><td>Gateway control protocol: Bearer-level message backhauling and application level gateway</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11543" title="See more details">H.248.79 (02/2012)</a></nobr></td><td>Gateway control protocol: Guidelines for packet-based streams</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12060" title="See more details">H.248.80 (01/2014)</a></nobr></td><td>Gateway control protocol: Usage of the revised SDP offer/answer model with ITU-T H.248</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11292" title="See more details">H.248.81 (05/2011)</a></nobr></td><td>Gateway control protocol: Guidelines on the use of the international emergency preference scheme (IEPS) call indicator and priority indicator in ITU-T H.248 profiles</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11862" title="See more details">H.248.81 (2011) Amd. 1 (03/2013)</a></nobr></td><td>New Appendix II, plus additions and corrections</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12454" title="See more details">H.248.81 (2011) Amd. 2 (04/2015)</a></nobr></td><td>DiffServ signalling approach</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11863" title="See more details">H.248.82 (03/2013)</a></nobr></td><td>Gateway control protocol: Explicit congestion notification support</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11544" title="See more details">H.248.83 (02/2012)</a></nobr></td><td>Gateway control protocol: Media gateway instance package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11657" title="See more details">H.248.84 (07/2012)</a></nobr></td><td>Gateway control protocol: NAT traversal for peer-to-peer services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11864" title="See more details">H.248.85 (03/2013)</a></nobr></td><td>Gateway control protocol: Usage of loopback in ITU-T H.248</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12069" title="See more details">H.248.86 (01/2014)</a></nobr></td><td>Gateway control protocol: ITU-T H.248 support for deep packet inspection</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12061" title="See more details">H.248.87 (01/2014)</a></nobr></td><td>Gateway control protocol: Guidelines on the use of ITU-T H.248 capabilities for performance monitoring in RTP networks in ITU-T H.248 profiles</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12062" title="See more details">H.248.88 (01/2014)</a></nobr></td><td>Gateway control protocol: RTP topology dependent RTCP handling by ITU-T H.248 media gateways with IP terminations</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12240" title="See more details">H.248.89 (10/2014)</a></nobr></td><td>Gateway control protocol: TCP support packages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12241" title="See more details">H.248.90 (10/2014)</a></nobr></td><td>Gateway control protocol: ITU-T H.248 packages for control of transport security using transport layer security (TLS)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12242" title="See more details">H.248.91 (10/2014)</a></nobr></td><td>Gateway control protocol: Guidelines on the use of ITU-T H.248 capabilities for transport security in TLS networks in ITU-T H.248 profiles</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12243" title="See more details">H.248.92 (10/2014)</a></nobr></td><td>Gateway control protocol: Stream endpoint interlinkage package</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12244" title="See more details">H.248.93 (10/2014)</a></nobr></td><td>Gateway control protocol: ITU-T H.248 support for control of transport security using the datagram transport layer security (DTLS) protocol</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12636" title="See more details">H.248.94 (11/2015)</a></nobr></td><td>Gateway control protocol: Web-based real-time communication services - ITU-T H.248 protocol support and profile guidelines</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12637" title="See more details">H.248.95 (11/2015)</a></nobr></td><td>Gateway control protocol: ITU-T H.248 support for RTP multiplexing</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12638" title="See more details">H.248.96 (11/2015)</a></nobr></td><td>Gateway Control Protocol: ITU-T H.248 Stream grouping and aggregation</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12639" title="See more details">H.248.97 (11/2015)</a></nobr></td><td> Gateway Control Protocol: ITU-T H.248 support for control of SCTP bearer connections</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12640" title="See more details">H.248.98 (02/2016)</a></nobr></td><td>Gateway control protocol: Support of remote media pause and resume</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8817" title="See more details">H.249 (05/2006)</a></nobr></td><td>Extended user input indications</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1088" title="See more details">H.261 (03/1993)</a></nobr></td><td>Video codec for audiovisual services at p x 64 kbit/s</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11627" title="See more details">H.262 (02/2012)</a></nobr></td><td>Information technology – Generic coding of moving pictures and associated audio information: Video</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11831" title="See more details">H.262 (2012) Amd. 1 (03/2013)</a></nobr></td><td>Frame packing arrangement signalling for quincunx pattern </td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7497" title="See more details">H.263 (01/2005)</a></nobr></td><td>Video coding for low bit rate communication</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5665" title="See more details">H.263 App. III (06/2001)</a></nobr></td><td>Examples for H.263 encoder/decoder implementations</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14659" title="See more details">H.264 (V14) (08/2021)</a></nobr></td><td>Advanced video coding for generic audiovisual services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12643" title="See more details">H.264.1 (V6) (02/2016)</a></nobr></td><td>Conformance specification for ITU-T H.264 advanced video coding</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12644" title="See more details">H.264.2 (02/2016)</a></nobr></td><td>Reference software for ITU-T H.264 advanced video coding</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15647" title="See more details">H.265 (V9) (09/2023)</a></nobr></td><td>High efficiency video coding</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13665" title="See more details">H.265.1 (10/2018)</a></nobr></td><td>Conformance specification for ITU-T H.265 high efficiency video coding</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12947" title="See more details">H.265.2 (V3) (12/2016)</a></nobr></td><td>Reference software for ITU-T H.265 high efficiency video coding</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15648" title="See more details">H.266 (V3) (09/2023)</a></nobr></td><td>Versatile video coding</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15649" title="See more details">H.266.1 (V2) (09/2023)</a></nobr></td><td>Conformance specification for ITU-T H.266 versatile video coding</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15937" title="See more details">H.266.2 (V2) (06/2024)</a></nobr></td><td>Reference software for ITU-T H.266 versatile video coding</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8824" title="See more details">H.271 (05/2006)</a></nobr></td><td>Video back-channel messages for conveyance of status information and requests from a video receiver to a video sender</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9037" title="See more details">H.272 (01/2007)</a></nobr></td><td>Procedures and values for video gamma compensation in multimedia systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15650" title="See more details">H.273 (V3) (09/2023)</a></nobr></td><td>Coding-independent code points for video signal type identification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15651" title="See more details">H.274 (V3) (09/2023)</a></nobr></td><td>Versatile supplemental enhancement information messages for coded video bitstreams</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1090" title="See more details">H.281 (11/1994)</a></nobr></td><td>A far end camera control protocol for videoconferences using H.224</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4496" title="See more details">H.310 (09/1998)</a></nobr></td><td>Broadband audiovisual communication systems and terminals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7451" title="See more details">H.310 (1998) Cor. 1 (01/2005)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7229" title="See more details">H.320 (03/2004)</a></nobr></td><td>Narrow-band visual telephone systems and terminal equipment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4230" title="See more details">H.321 (02/1998)</a></nobr></td><td>Adaptation of H.320 visual telephone terminals to B-ISDN environments</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7452" title="See more details">H.321 (1998) Cor. 1 (01/2005)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3339" title="See more details">H.322 (03/1996)</a></nobr></td><td>Visual telephone systems and terminal equipment for local area networks which provide a guaranteed quality of service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14950" title="See more details">H.323 (V8) (03/2022)</a></nobr></td><td>Packet-based multimedia communications systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9711" title="See more details">H.324 (04/2009)</a></nobr></td><td>Terminal for low bit-rate multimedia communication</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=1094" title="See more details">H.331 (03/1993)</a></nobr></td><td>Broadcasting type audiovisual multipoint systems and terminal equipment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4233" title="See more details">H.332 (09/1998)</a></nobr></td><td>H.323 extended for loosely coupled conferences</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4680" title="See more details">H.341 (05/1999)</a></nobr></td><td>Multimedia management information base</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12064" title="See more details">H.341 (1999) Cor. 1 (01/2014)</a></nobr></td><td>Updates to MIB definitions</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11294" title="See more details">H.350 (05/2011)</a></nobr></td><td>Directory services architecture for multimedia conferencing</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11295" title="See more details">H.350.1 (05/2011)</a></nobr></td><td>Directory services architecture for H.323</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11296" title="See more details">H.350.2 (05/2011)</a></nobr></td><td>Directory services architecture for H.235</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11297" title="See more details">H.350.3 (05/2011)</a></nobr></td><td>Directory services architecture for H.320</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11298" title="See more details">H.350.4 (05/2011)</a></nobr></td><td>Directory services architecture for SIP</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11299" title="See more details">H.350.5 (05/2011)</a></nobr></td><td>Directory services architecture for non-standard protocols</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11300" title="See more details">H.350.6 (05/2011)</a></nobr></td><td>Directory services architecture for call forwarding and preferences</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9039" title="See more details">H.350.7 (01/2007)</a></nobr></td><td>Directory services architecture for XMPP</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9488" title="See more details">H.351 (06/2008)</a></nobr></td><td>Semantic web interface for multimedia terminal and system directories (SWIM-D)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7231" title="See more details">H.360 (03/2004)</a></nobr></td><td>An architecture for end-to-end QoS control and signalling</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8823" title="See more details">H.361 (05/2006)</a></nobr></td><td>End-to-end quality of service (QoS) and service priority signalling in H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9464" title="See more details">H.361 (2006) Amd. 1 (06/2008)</a></nobr></td><td>New Annex A "IntServ/RSVP support for H.323 systems", Annex B "DiffServ support for H.323 systems" and Annex C "Priority support for H.323 systems"</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10990" title="See more details">H.362 (09/2010)</a></nobr></td><td>A framework for adaptive end-to-end QoS control based on variable bit-rate codecs in wireless networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12245" title="See more details">H.420 (10/2014)</a></nobr></td><td>Telepresence system architecture</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13666" title="See more details">H.430.1 (08/2018)</a></nobr></td><td>Requirements for immersive live experience (ILE) services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13667" title="See more details">H.430.2 (08/2018)</a></nobr></td><td>Architectural framework for immersive live experience (ILE) services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15652" title="See more details">H.430.3 (V2) (09/2023)</a></nobr></td><td>Service scenario for immersive live experience (ILE)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14108" title="See more details">H.430.4 (11/2019)</a></nobr></td><td>Service configuration, media transport protocols, signalling information of MPEG media transport for immersive live experience (ILE) systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14338" title="See more details">H.430.5 (08/2020)</a></nobr></td><td>Reference models for immersive live experience (ILE) presentation environments</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15629" title="See more details">H.430.6 (09/2023)</a></nobr></td><td>Media transport protocols, signalling information of haptic transmission for immersive live experience (ILE) systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15630" title="See more details">H.430.7 (09/2023)</a></nobr></td><td>Requirements of interactive immersive services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15930" title="See more details">H.430.8 (06/2024)</a></nobr></td><td>Functional architecture of interactive immersive services (IIS) systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15764" title="See more details">H.431.1 (01/2024)</a></nobr></td><td>Functional architecture for cloud virtual reality systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11301" title="See more details">H.450.1 (05/2011)</a></nobr></td><td>Generic functional protocol for the support of supplementary services in ITU-T H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11302" title="See more details">H.450.2 (05/2011)</a></nobr></td><td>Call transfer supplementary service for ITU-T H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11303" title="See more details">H.450.3 (05/2011)</a></nobr></td><td>Call diversion supplementary service for ITU-T H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11867" title="See more details">H.450.4 (03/2013)</a></nobr></td><td>Call hold supplementary service for ITU-T H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11866" title="See more details">H.450.5 (03/2013)</a></nobr></td><td>Call park and call pickup supplementary services in ITU-T H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4677" title="See more details">H.450.6 (05/1999)</a></nobr></td><td>Call waiting supplementary service for H.323</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11868" title="See more details">H.450.7 (03/2013)</a></nobr></td><td>Message waiting indication supplementary service for ITU-T H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11869" title="See more details">H.450.8 (03/2013)</a></nobr></td><td>Name identification supplementary service for ITU-T H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5268" title="See more details">H.450.9 (11/2000)</a></nobr></td><td>Call completion supplementary services for H.323</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5421" title="See more details">H.450.10 (03/2001)</a></nobr></td><td>Call offering supplementary services for H.323</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5422" title="See more details">H.450.11 (03/2001)</a></nobr></td><td>Call intrusion supplementary service for H.323</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5523" title="See more details">H.450.12 (07/2001)</a></nobr></td><td>Common Information Additional Network Feature for H.323</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11870" title="See more details">H.460.1 (03/2013)</a></nobr></td><td>Guidelines for the use of the generic extensible framework</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11871" title="See more details">H.460.2 (03/2013)</a></nobr></td><td>Number portability interworking between ITU-T H.323 and switched circuit networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6165" title="See more details">H.460.3 (11/2002)</a></nobr></td><td>Circuit maps within H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9040" title="See more details">H.460.4 (01/2007)</a></nobr></td><td>Call priority designation and country/international network of call origination identification for H.323 priority calls</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6167" title="See more details">H.460.5 (11/2002)</a></nobr></td><td>H.225.0 transport of multiple Q.931 information elements of the same type</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11872" title="See more details">H.460.6 (03/2013)</a></nobr></td><td>Extended Fast Connect feature</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11873" title="See more details">H.460.7 (03/2013)</a></nobr></td><td>Digit maps within ITU-T H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6170" title="See more details">H.460.8 (11/2002)</a></nobr></td><td>Querying for alternate routes within H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6171" title="See more details">H.460.9 (11/2002)</a></nobr></td><td>Support for online QoS-monitoring reporting within H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7232" title="See more details">H.460.9 (2002) Amd. 1 (03/2004)</a></nobr></td><td>New Annex B – Extended performance metrics</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7233" title="See more details">H.460.10 (03/2004)</a></nobr></td><td>Call party category within H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7234" title="See more details">H.460.11 (03/2004)</a></nobr></td><td>Delayed call establishment within H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7235" title="See more details">H.460.12 (03/2004)</a></nobr></td><td>Glare control indicator within H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7236" title="See more details">H.460.13 (03/2004)</a></nobr></td><td>Called user release control within H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7237" title="See more details">H.460.14 (03/2004)</a></nobr></td><td>Support for Multi-Level Precedence and Preemption (MLPP) within H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7238" title="See more details">H.460.15 (03/2004)</a></nobr></td><td>Call signalling transport channel suspension and redirection within H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7455" title="See more details">H.460.16 (01/2005)</a></nobr></td><td>Multiple-message release sequence capability within H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8584" title="See more details">H.460.17 (09/2005)</a></nobr></td><td>Using H.225.0 call signalling connection as transport for H.323 RAS messages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11874" title="See more details">H.460.18 (03/2013)</a></nobr></td><td>Traversal of ITU-T H.323 signalling across network address translators and firewalls</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11875" title="See more details">H.460.19 (03/2013)</a></nobr></td><td>Traversal of ITU-T H.323 media across network address translators and firewalls</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8587" title="See more details">H.460.20 (09/2005)</a></nobr></td><td>Location number within H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=7191" title="See more details">H.460.21 (05/2006)</a></nobr></td><td>Message broadcast for H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12456" title="See more details">H.460.22 (04/2015)</a></nobr></td><td>Negotiation of security protocols to protect ITU-T H.225.0 call signalling messages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10639" title="See more details">H.460.23 (12/2009)</a></nobr></td><td>Network address translator and firewall device determination in ITU-T H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11304" title="See more details">H.460.23 (2009) Amd. 1 (05/2011)</a></nobr></td><td>Support for ITU-T H.460.24 Annex B</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10640" title="See more details">H.460.24 (12/2009)</a></nobr></td><td>Point-to-point media through network address translators and firewalls within ITU-T H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11305" title="See more details">H.460.24 (2009) Amd. 1 (05/2011)</a></nobr></td><td>Improvements for NAT traversal without intermediary entities</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11876" title="See more details">H.460.24 (2009) Amd. 2 (03/2013)</a></nobr></td><td>Support for ITU H.460.19 multiplex media mode for point-to-point media</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10991" title="See more details">H.460.25 (09/2010)</a></nobr></td><td>Transport of geographic information in ITU-T H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11658" title="See more details">H.460.26 (06/2012)</a></nobr></td><td>Using ITU-T H.225.0 call signalling connection as transport for media</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12457" title="See more details">H.460.27 (11/2015)</a></nobr></td><td>End-to-end session identifier for ITU-T H.323 systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5686" title="See more details">H.501 (03/2002)</a></nobr></td><td>Protocol for mobility management and intra/inter-domain communication in multimedia systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5687" title="See more details">H.510 (03/2002)</a></nobr></td><td>Mobility for H.323 multimedia systems and services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=5688" title="See more details">H.530 (03/2002)</a></nobr></td><td>Symmetric security procedures for H.323 mobility in H.510</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6473" title="See more details">H.530 (2002) Cor. 1 (07/2003)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13434" title="See more details">H.550 (12/2017)</a></nobr></td><td>Architecture and functional entities of vehicle gateway platforms</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14811" title="See more details">H.551 (01/2022)</a></nobr></td><td>Architecture of vehicular multimedia systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15759" title="See more details">H.552 (04/2024)</a></nobr></td><td>Implementation of vehicle multimedia systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13435" title="See more details">H.560 (12/2017)</a></nobr></td><td>Communications interface between external applications and a vehicle gateway platform</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6474" title="See more details">H.610 (07/2003)</a></nobr></td><td>Full service VDSL – System architecture and customer premises equipment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6475" title="See more details">H.611 (07/2003)</a></nobr></td><td>Full-Service VDSL – Operations, Administration Maintenance & Provision aspects</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9491" title="See more details">H.622 (06/2008)</a></nobr></td><td>A generic home network architecture with support for multimedia services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9554" title="See more details">H.622.1 (10/2008)</a></nobr></td><td>Architecture and functional requirements for home networks supporting IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12646" title="See more details">H.622.2 (11/2015)</a></nobr></td><td>Service capabilities and framework for virtual home networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13190" title="See more details">H.625 (03/2017)</a></nobr></td><td>Architecture for network-based speech-to-speech translation services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14109" title="See more details">H.626 (V2) (11/2019)</a></nobr></td><td>Architectural requirements for video surveillance system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11877" title="See more details">H.626.1 (03/2013)</a></nobr></td><td>Architecture for mobile visual surveillance</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13436" title="See more details">H.626.2 (12/2017)</a></nobr></td><td>Architecture for cloud storage in visual surveillance</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13669" title="See more details">H.626.3 (08/2018)</a></nobr></td><td>Architecture for visual surveillance system interworking</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13670" title="See more details">H.626.4 (08/2018)</a></nobr></td><td>Architecture for a point-to-point visual surveillance system </td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14951" title="See more details">H.626.5 (V2) (03/2022)</a></nobr></td><td>Architecture for intelligent video surveillance systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15848" title="See more details">H.626.6 (02/2024)</a></nobr></td><td>Architecture for big data application in video surveillance systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15931" title="See more details">H.626.7 (06/2024)</a></nobr></td><td>Functional architecture for machine vision systems in smart manufacturing</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14342" title="See more details">H.627 (08/2020)</a></nobr></td><td>Signalling and protocols for a video surveillance system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13191" title="See more details">H.627.1 (03/2017)</a></nobr></td><td>Protocols for mobile visual surveillance</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14971" title="See more details">H.627.2 (03/2022)</a></nobr></td><td>Requirements and protocols for home surveillance systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15204" title="See more details">H.627.3 (12/2022)</a></nobr></td><td>Protocols for intelligent video surveillance systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14110" title="See more details">H.629.1 (11/2019)</a></nobr></td><td>Scenarios, framework and metadata for digitalized artwork images display system</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13906" title="See more details">H.643.1 (05/2019)</a></nobr></td><td>Architecture for the deployment of information-centric networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13907" title="See more details">H.644.1 (05/2019)</a></nobr></td><td>Functional architecture for virtual content delivery networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14111" title="See more details">H.644.2 (11/2019)</a></nobr></td><td>Virtual content delivery network – Network virtualization</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14340" title="See more details">H.644.3 (08/2020)</a></nobr></td><td>Functional architecture of multimedia content delivery networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14686" title="See more details">H.644.4 (06/2021)</a></nobr></td><td>Architecture for mobile/multi-access edge computing enabled content delivery networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15205" title="See more details">H.644.5 (12/2022)</a></nobr></td><td>Functional architecture of content request routing service in multimedia content delivery networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15631" title="See more details">H.644.6 (09/2023)</a></nobr></td><td>Architecture for video distribution systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15632" title="See more details">H.644.7 (09/2023)</a></nobr></td><td>Functional architecture for media processing services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15932" title="See more details">H.644.8 (06/2024)</a></nobr></td><td>Requirements and architecture on audio and video processing of media processing services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9712" title="See more details">H.701 (03/2009)</a></nobr></td><td>Content delivery error recovery for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14341" title="See more details">H.702 (08/2020)</a></nobr></td><td>Accessibility profiles for IPTV systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12908" title="See more details">H.703 (07/2016)</a></nobr></td><td>Enhanced user interface framework for IPTV terminal devices</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14343" title="See more details">H.704 (08/2020)</a></nobr></td><td>Enhanced user interface framework for IPTV terminal device - Gesture control interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15633" title="See more details">H.705.1 (09/2023)</a></nobr></td><td>Layered specification for the IPTV service platform functional architecture based on open service capabilities</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15634" title="See more details">H.705.2 (09/2023)</a></nobr></td><td>Requirements for live streaming systems based on the QUIC transport protocol</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15933" title="See more details">H.705.3 (06/2024)</a></nobr></td><td>Requirements and architecture for open IPTV multicast service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9560" title="See more details">H.720 (10/2008)</a></nobr></td><td>Overview of IPTV terminal devices and end systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14952" title="See more details">H.721 (V3) (03/2022)</a></nobr></td><td>IPTV terminal devices: Basic model</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12065" title="See more details">H.722 (01/2014)</a></nobr></td><td>IPTV terminal device: Full-fledged model</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12909" title="See more details">H.723 (07/2016)</a></nobr></td><td>IPTV terminal device: Mobile model</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13437" title="See more details">H.724 (12/2017)</a></nobr></td><td>IPTV terminal device: Interworking-enabled model of multiple devices</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15934" title="See more details">H.725 (06/2024)</a></nobr></td><td>IPTV Terminal Device: Virtualized model</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11659" title="See more details">H.730 (06/2012)</a></nobr></td><td>Web-based terminal middleware for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10641" title="See more details">H.740 (03/2010)</a></nobr></td><td>Application event handling for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11332" title="See more details">H.740 (2010) Amd. 1 (03/2011)</a></nobr></td><td>New video handling sensor event scenario in Appendix II</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11547" title="See more details">H.741.0 (03/2012)</a></nobr></td><td>IPTV application event handling: Overall aspects of audience measurement for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11660" title="See more details">H.741.1 (06/2012)</a></nobr></td><td>IPTV application event handling: Audience measurement operations for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11886" title="See more details">H.741.1 (2012) Amd. 1 (01/2013)</a></nobr></td><td>New Appendices VIII and IX with XML schema on audience measurement service discovery</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12459" title="See more details">H.741.1 (2012) Cor. 1 (02/2015)</a></nobr></td><td>Correction on XML namespaces</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11661" title="See more details">H.741.2 (06/2012)</a></nobr></td><td>IPTV application event handling: Data structures of audience measurement for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12066" title="See more details">H.741.2 (2012) Amd. 1 (11/2013)</a></nobr></td><td>New Appendix I with XML schema on the data structures of audience measurement for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12461" title="See more details">H.741.2 (2012) Cor. 1 (02/2015)</a></nobr></td><td>Correction on XML namespaces</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11662" title="See more details">H.741.3 (06/2012)</a></nobr></td><td>IPTV application event handling: Audience measurement for IPTV distributed content services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12462" title="See more details">H.741.3 (2012) Amd. 1 (02/2015)</a></nobr></td><td>XML schema on the measurement data structures for linear TV service</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11663" title="See more details">H.741.4 (06/2012)</a></nobr></td><td>IPTV application event handling: Transport mechanisms for audience measurement</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12463" title="See more details">H.741.4 (2012) Amd. 1 (04/2015)</a></nobr></td><td>XML schema on the data structures for message delivery</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15612" title="See more details">H.741.5 (04/2024)</a></nobr></td><td>Application event handling: Overall aspects of personalized IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12910" title="See more details">H.742.0 (07/2016)</a></nobr></td><td>Use of video sensor devices for IPTV services: Architecture and requirements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9555" title="See more details">H.750 (10/2008)</a></nobr></td><td>High-level specification of metadata for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11878" title="See more details">H.751 (03/2013)</a></nobr></td><td>Metadata for rights information interoperability in IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12649" title="See more details">H.752 (11/2015)</a></nobr></td><td>Multimedia content provisioning interface for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14112" title="See more details">H.753 (11/2019)</a></nobr></td><td>Scene-based metadata for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14694" title="See more details">H.753 (2019) Cor. 1 (06/2021)</a></nobr></td><td>Correction of definition and abbreviation for Scene on Demand</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9714" title="See more details">H.760 (03/2009)</a></nobr></td><td>Overview of multimedia application frameworks for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12237" title="See more details">H.761 (11/2014)</a></nobr></td><td>Nested context language (NCL) and Ginga-NCL</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11308" title="See more details">H.762 (05/2011)</a></nobr></td><td>Lightweight interactive multimedia environment (LIME) for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=10993" title="See more details">H.763.1 (09/2010)</a></nobr></td><td>Cascading style sheets for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13210" title="See more details">H.763.2 (03/2017)</a></nobr></td><td>Scalable vector graphics for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13438" title="See more details">H.763.3 (12/2017)</a></nobr></td><td>HTML for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14124" title="See more details">H.764 V2 (11/2019)</a></nobr></td><td>IPTV services enhanced script language</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12464" title="See more details">H.765 (04/2015)</a></nobr></td><td>Packaged IPTV application (widget) service </td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13671" title="See more details">H.766 (08/2018)</a></nobr></td><td>Lua for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12465" title="See more details">H.770 (04/2015)</a></nobr></td><td>Mechanisms for service discovery and selection for IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11309" title="See more details">H.771 (05/2011)</a></nobr></td><td>SIP-based discovery of IPTV services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12650" title="See more details">H.772 (11/2015)</a></nobr></td><td>IPTV terminal device discovery</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11664" title="See more details">H.780 (06/2012)</a></nobr></td><td>Digital signage: Service requirements and IPTV-based architecture</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12466" title="See more details">H.781 (04/2015)</a></nobr></td><td> Digital signage: Functional architecture</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13783" title="See more details">H.782 (V2) (11/2018)</a></nobr></td><td>Digital signage: Metadata</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13908" title="See more details">H.783 (V2) (05/2019)</a></nobr></td><td>Digital signage: Audience measurement services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13784" title="See more details">H.784 (11/2018)</a></nobr></td><td>Digital signage: Display device control interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12247" title="See more details">H.785.0 (10/2014)</a></nobr></td><td>Digital signage: Requirements of disaster information services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13672" title="See more details">H.785.1 (08/2018)</a></nobr></td><td>Digital signage: Service requirements and a reference model on information services in public places via an interoperable service platform</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14113" title="See more details">H.810 (V5) (11/2019)</a></nobr></td><td>Interoperability design guidelines for personal connected health systems: Introduction</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13414" title="See more details">H.811 (11/2017)</a></nobr></td><td>Interoperability design guidelines for personal connected health systems: Personal Health Devices interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13415" title="See more details">H.812 (11/2017)</a></nobr></td><td>Interoperability design guidelines for personal connected health systems: Services interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13416" title="See more details">H.812.1 (11/2017)</a></nobr></td><td>Interoperability design guidelines for personal connected health systems: Services interface: Observation Upload capability</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13417" title="See more details">H.812.2 (11/2017)</a></nobr></td><td>Interoperability design guidelines for personal connected health systems: Services interface: Questionnaire capability</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13418" title="See more details">H.812.3 (11/2017)</a></nobr></td><td>Interoperability design guidelines for personal connected health systems: Services interface: Capability Exchange capability</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13419" title="See more details">H.812.4 (11/2017)</a></nobr></td><td>Interoperability design guidelines for personal connected health systems: Services interface: Authenticated Persistent Session capability</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14114" title="See more details">H.813 (11/2019)</a></nobr></td><td>Interoperability design guidelines for personal connected health systems: Healthcare Information System interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13673" title="See more details">H.820 (08/2018)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Conformity assessment test plan</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13200" title="See more details">H.821 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Healthcare information system interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13201" title="See more details">H.830.1 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 1: Web services interoperability: Health & Fitness Service sender</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13202" title="See more details">H.830.2 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 2: Web services interoperability: Health & Fitness Service receiver</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13203" title="See more details">H.830.3 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 3: SOAP/ATNA: Health & Fitness Service sender</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13211" title="See more details">H.830.4 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 4: SOAP/ATNA: Health & Fitness Service receiver</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13204" title="See more details">H.830.5 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 5: PCD-01 HL7 Messages: Health & Fitness Service sender </td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13424" title="See more details">H.830.5 (2017) Cor. 1 (11/2017)</a></nobr></td><td>Alignment with CDG2016 (Iris) </td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13213" title="See more details">H.830.6 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 6: PCD-01 HL7 Messages: Health & Fitness Service receiver</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13425" title="See more details">H.830.6 (2017) Cor. 1 (11/2017)</a></nobr></td><td>Alignment with CDG2016 (Iris)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13208" title="See more details">H.830.7 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 7: Consent Management: Health & Fitness Service sender</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13209" title="See more details">H.830.8 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 8: Consent Management: Health & Fitness Service receiver</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13212" title="See more details">H.830.9 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 9: hData Observation Upload: Health & Fitness Service sender</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13205" title="See more details">H.830.10 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 10: hData Observation Upload: Health & Fitness Service receiver</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13206" title="See more details">H.830.11 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 11: Questionnaires: Health & Fitness Service sender</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13207" title="See more details">H.830.12 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 12: Questionnaires: Health & Fitness Service receiver</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13674" title="See more details">H.830.13 (08/2018)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 13: Capability Exchange: Health & Fitness Service sender</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13675" title="See more details">H.830.14 (08/2018)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 14: Capability Exchange: Health & Fitness Service receiver</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14115" title="See more details">H.830.15 (11/2019)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 15: FHIR Observation Upload: Health & Fitness Service sender</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14097" title="See more details">H.830.16 (10/2019)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 16: FHIR Observation Upload: Health & Fitness Service receiver</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14687" title="See more details">H.830.17 (06/2021)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 17: Personal Health Device Observation Upload (POU) Sender</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14688" title="See more details">H.830.18 (06/2021)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Services interface Part 18: Personal Health Device Observation Upload (POU) Receiver</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13214" title="See more details">H.840 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface: USB host</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14344" title="See more details">H.841 (08/2020)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 1: Optimized Exchange Protocol: Personal Health Device</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14116" title="See more details">H.842 (11/2019)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 2: Optimized Exchange Protocol: Personal Health Gateway</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13680" title="See more details">H.843 (08/2018)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 3: Continua Design Guidelines: Personal Health Device </td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14117" title="See more details">H.844 (11/2019)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 4: Continua Design Guidelines: Personal Health Gateway</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13219" title="See more details">H.845.1 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5A: Weighing scales</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13682" title="See more details">H.845.2 (08/2018)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5B: Glucose meter</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13221" title="See more details">H.845.3 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5C: Pulse oximeter</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13222" title="See more details">H.845.4 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5D: Blood pressure monitor</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13223" title="See more details">H.845.5 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5E: Thermometer</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13224" title="See more details">H.845.6 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5F: Cardiovascular fitness and activity monitor </td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13225" title="See more details">H.845.7 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5G: Strength fitness equipment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13226" title="See more details">H.845.8 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5H: Independent living activity hub</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13227" title="See more details">H.845.9 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5I: Adherence monitor</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15207" title="See more details">H.845.10 (12/2022)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5J: Insulin pump</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13228" title="See more details">H.845.11 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5K: Peak expiratory flow monitor</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13229" title="See more details">H.845.12 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5L: Body composition analyser</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13230" title="See more details">H.845.13 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5M: Basic electrocardiograph</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13231" title="See more details">H.845.14 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5N: International normalized ratio</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13232" title="See more details">H.845.15 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5O: Sleep apnoea breathing therapy equipment</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13235" title="See more details">H.845.16 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5P: Continuous glucose monitor</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13426" title="See more details">H.845.16 (2017) Cor. 1 (11/2017)</a></nobr></td><td>Alignment with CDG2016 (Iris)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14118" title="See more details">H.845.17 (11/2019)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 5Q: Power status monitor</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14119" title="See more details">H.846 (11/2019)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 6: Personal Health Gateway</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13236" title="See more details">H.847 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 7: Continua Design Guidelines for Bluetooth Low Energy: Personal Health Devices</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13237" title="See more details">H.848 (04/2017)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 8: Continua Design Guidelines for Bluetooth Low Energy: Personal Health Gateway</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14098" title="See more details">H.849 (10/2019)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 9: Transcoding for Bluetooth Low Energy: Personal Health Devices </td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14120" title="See more details">H.850 (11/2019)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 10: Transcoding for Bluetooth Low Energy: Personal Health Gateway - General requirements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14345" title="See more details">H.850.1 (08/2020)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 10A: Transcoding for Bluetooth Low Energy: Personal Health Gateway - Thermometer</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14346" title="See more details">H.850.2 (08/2020)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 10B: Transcoding for Bluetooth Low Energy: Personal Health Gateway – Blood pressure</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14347" title="See more details">H.850.3 (08/2020)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 10C: Transcoding for Bluetooth Low Energy: Personal Health Gateway - Heart-rate</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14348" title="See more details">H.850.4 (08/2020)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 10D: Transcoding for Bluetooth Low Energy: Personal Health Gateway - Glucose meter</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14349" title="See more details">H.850.5 (08/2020)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 10E: Transcoding for Bluetooth Low Energy: Personal Health Gateway - Weighing scales</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14350" title="See more details">H.850.6 (08/2020)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 10F: Transcoding for Bluetooth Low Energy: Personal Health Gateway - Pulse oximeter</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14351" title="See more details">H.850.7 (08/2020)</a></nobr></td><td>Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 10G: Transcoding for Bluetooth Low Energy: Personal Health Gateway - Continuous glucose monitoring</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12163" title="See more details">H.860 (04/2014)</a></nobr></td><td>Multimedia e-health data exchange services: Data schema and supporting services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15773" title="See more details">H.861.0 (V2) (01/2024)</a></nobr></td><td>Requirements on communication platform for multimedia brain information</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13572" title="See more details">H.861.1 (03/2018)</a></nobr></td><td>Requirements on establishing brain healthcare quotients</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14123" title="See more details">H.862.0 (11/2019)</a></nobr></td><td>Requirements and framework for ICT sleep management service models</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14352" title="See more details">H.862.1 (08/2020)</a></nobr></td><td>Data model for sleep management services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14353" title="See more details">H.862.2 (08/2020)</a></nobr></td><td>Framework of annotation methods for biosignal data</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14354" title="See more details">H.862.3 (08/2020)</a></nobr></td><td>Requirements of voice management interface for human-care services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14689" title="See more details">H.862.4 (06/2021)</a></nobr></td><td>Framework for information and communication technology olfactory function test systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14690" title="See more details">H.862.5 (06/2021)</a></nobr></td><td>Emotion enabled multimodal user interface based on artificial neural networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15635" title="See more details">H.862.6 (09/2023)</a></nobr></td><td>Functional requirements for counselling services based on artificial emotional intelligence</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15765" title="See more details">H.862.7 (01/2024)</a></nobr></td><td>Interoperability framework for sleep management services</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14953" title="See more details">H.870 (V2) (03/2022)</a></nobr></td><td>Guidelines for safe listening devices/systems</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13967" title="See more details">H.871 (07/2019)</a></nobr></td><td>Safe listening guidelines for personal sound amplifiers</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13654" title="See more details">H Suppl. 7 (2008) Err. 1 (07/2018)</a></nobr></td><td>&nbsp;</td><td align="center"><nobr>In force</nobr></td>
+		</tr>
+	</table>
+</div>

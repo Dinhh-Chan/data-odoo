@@ -1,0 +1,139 @@
+<table width="98%" border="0" cellspacing="0" cellpadding="5"><tr><td colspan="2" style="text-align: center; font-family: verdana; font-size: 9pt;"><b>ITU-T Recommendations report</b></td></tr><tr><td width="10%" style="font-family: verdana; font-size: 8pt;"><i>Record(s) found:</i></td><td style="text-align: left; font-family: verdana; font-size: 8pt;">66</td></tr><tr><td colspan="2" style="font-family: verdana; font-size: 8pt;"><i>Report generated at 2024-06-26 02:31:23Z</i></td></tr></table><br/><div>
+	<table cellspacing="0" cellpadding="6" rules="all" border="1" id="ctl00_content_result_grd_result" style="background-color:White;border-color:LightGrey;border-width:1px;border-style:Solid;font-family:Verdana;font-size:8pt;width:750px;border-collapse:collapse;">
+		<tr style="background-color:#F1F1F1;">
+			<th align="center" scope="col" style="color:Blue;font-weight:normal;">Rec.</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Title</th><th align="center" scope="col" style="color:Blue;font-weight:normal;">Status</th>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14670" title="See more details">Z.100 (06/2021)</a></nobr></td><td>Specification and Description Language - Overview of SDL-2010</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14049" title="See more details">Z.100 Annex F1 (10/2019)</a></nobr></td><td>Specification and Description Language - Overview of SDL-2010 - SDL formal definition: General overview</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14702" title="See more details">Z.100 Annex F2 (06/2021)</a></nobr></td><td>Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Static semantics</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14703" title="See more details">Z.100 Annex F3 (06/2021)</a></nobr></td><td>Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Dynamic semantics</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14671" title="See more details">Z.101 (06/2021)</a></nobr></td><td>Specification and Description Language - Basic SDL-2010</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14672" title="See more details">Z.102 (06/2021)</a></nobr></td><td>Specification and Description Language - Comprehensive SDL-2010</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14673" title="See more details">Z.103 (06/2021)</a></nobr></td><td>Specification and Description Language - Shorthand notation and annotation in SDL-2010</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14674" title="See more details">Z.104 (06/2021)</a></nobr></td><td>Specification and Description Language - Data and action language in SDL-2010</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14675" title="See more details">Z.105 (06/2021)</a></nobr></td><td>Specification and Description Language - SDL-2010 combined with ASN.1 modules</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14676" title="See more details">Z.106 (06/2021)</a></nobr></td><td>Specification and Description Language - Common interchange format for SDL-2010</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14677" title="See more details">Z.107 (06/2021)</a></nobr></td><td>Specification and Description Language - Object-oriented data in SDL-2010</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13043" title="See more details">Z.109 (10/2016)</a></nobr></td><td>Specification and Description Language - Unified modeling language profile for SDL-2010</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9620" title="See more details">Z.110 (11/2008)</a></nobr></td><td>Criteria for use of formal description techniques by ITU-T</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=12862" title="See more details">Z.111 (04/2016)</a></nobr></td><td>Notations and guidelines for the definition of ITU-T languages</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9060" title="See more details">Z.119 (02/2007)</a></nobr></td><td>Guidelines for UML profile design</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11063" title="See more details">Z.120 (02/2011)</a></nobr></td><td>Message Sequence Chart (MSC)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4340" title="See more details">Z.120 Annex B (04/1998)</a></nobr></td><td>Formal semantics of message sequence charts</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=6239" title="See more details">Z.121 (02/2003)</a></nobr></td><td>Specification and Description Language (SDL) data binding to Message Sequence Charts (MSC)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=11064" title="See more details">Z.150 (02/2011)</a></nobr></td><td>User Requirements Notation (URN) – Language requirements and framework</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13711" title="See more details">Z.151 (10/2018)</a></nobr></td><td>User Requirements Notation (URN) - Language definition</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15702" title="See more details">Z.161 (10/2023)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 core language</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15092" title="See more details">Z.161.1 (10/2022)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 language extensions: Support of interfaces with continuous signals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15093" title="See more details">Z.161.2 (10/2022)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 language extensions: Configuration and deployment support</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15094" title="See more details">Z.161.3 (10/2022)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 language extensions: Advanced parameterization</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15095" title="See more details">Z.161.4 (10/2022)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 language extensions: Behaviour types</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15096" title="See more details">Z.161.5 (10/2022)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 language extensions: Performance and real time testing</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15097" title="See more details">Z.161.6 (10/2022)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 language extensions: Advanced matching</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15098" title="See more details">Z.161.7 (10/2022)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 Language Extensions: Object-oriented features</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9278" title="See more details">Z.162 (11/2007)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 tabular presentation format (TFT)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9279" title="See more details">Z.163 (11/2007)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 graphical presentation format (GFT)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13375" title="See more details">Z.164 (10/2017)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 operational semantics</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15099" title="See more details">Z.165 (10/2022)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 runtime interface (TRI)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15100" title="See more details">Z.165.1 (10/2022)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 extension package: Extended TRI</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15703" title="See more details">Z.166 (10/2023)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15102" title="See more details">Z.167 (10/2022)</a></nobr></td><td>Testing and Test Control Notation version 3: Using ASN.1 with TTCN-3</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14787" title="See more details">Z.168 (10/2021)</a></nobr></td><td>Testing and Test Control Notation version 3: The IDL to TTCN-3 mapping</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=14788" title="See more details">Z.169 (10/2021)</a></nobr></td><td>Testing and Test Control Notation version 3: Using XML schema with TTCN-3</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=13381" title="See more details">Z.170 (10/2017)</a></nobr></td><td>Testing and Test Control Notation version 3: TTCN-3 documentation comment specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=15704" title="See more details">Z.171 (10/2023)</a></nobr></td><td>Testing and Test Control Notation version 3: Using JSON with TTCN-3</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4769" title="See more details">Z.200 (11/1999)</a></nobr></td><td>CHILL – The ITU-T Programming Language</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3168" title="See more details">Z.301 (11/1988)</a></nobr></td><td>Introduction to the CCITT man-machine language</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3169" title="See more details">Z.302 (11/1988)</a></nobr></td><td>The meta-language for describing MML syntax and dialogue procedures</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3170" title="See more details">Z.311 (11/1988)</a></nobr></td><td>Introduction to syntax and dialogue procedures</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3171" title="See more details">Z.312 (11/1988)</a></nobr></td><td>Basic format layout</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3172" title="See more details">Z.314 (11/1988)</a></nobr></td><td>The character set and basic elements</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3173" title="See more details">Z.315 (11/1988)</a></nobr></td><td>Input (command) language syntax specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3174" title="See more details">Z.316 (11/1988)</a></nobr></td><td>Output language syntax specification</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3175" title="See more details">Z.317 (11/1988)</a></nobr></td><td>Man-machine dialogue procedures</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3176" title="See more details">Z.321 (11/1988)</a></nobr></td><td>Introduction to the extended MML for visual display terminals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3177" title="See more details">Z.322 (11/1988)</a></nobr></td><td>Capabilities of visual display terminals</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3179" title="See more details">Z.331 (11/1988)</a></nobr></td><td>Introduction to the specification of the man-machine interface</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3180" title="See more details">Z.332 (11/1988)</a></nobr></td><td>Methodology for the specification of the man-machine interface – General working procedure</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3181" title="See more details">Z.333 (11/1988)</a></nobr></td><td>Methodology for the specification of the man-machine interface – Tools and methods</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3182" title="See more details">Z.334 (11/1988)</a></nobr></td><td>Subscriber administration</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3183" title="See more details">Z.335 (11/1988)</a></nobr></td><td>Routing administration</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3184" title="See more details">Z.336 (11/1988)</a></nobr></td><td>Traffic measurement administration</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3185" title="See more details">Z.337 (11/1988)</a></nobr></td><td>Network management administration</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3186" title="See more details">Z.341 (11/1988)</a></nobr></td><td>Glossary of terms</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3187" title="See more details">Z.351 (03/1993)</a></nobr></td><td>Data oriented human-machine interface specification technique – Introduction</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=3188" title="See more details">Z.352 (03/1993)</a></nobr></td><td>Data oriented human-machine interface specification technique – Scope, approach and reference model</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4009" title="See more details">Z.360 (05/1997)</a></nobr></td><td>Graphic GDMO: A graphic notation for the Guidelines for the Definition of Managed Objects</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4553" title="See more details">Z.361 (02/1999)</a></nobr></td><td>Design guidelines for Human-Computer Interfaces (HCI) for the management of telecommunications networks</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8042" title="See more details">Z.371 (04/2005)</a></nobr></td><td>Graphic information for telecommunication management objects</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=8043" title="See more details">Z.372 (04/2005)</a></nobr></td><td>Templates for telecommunications human-machine interfaces</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;border-color:LightGrey;border-width:1px;border-style:solid;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=9626" title="See more details">Z.450 (11/2008)</a></nobr></td><td>Quality aspects of protocol-related Recommendations</td><td align="center"><nobr>In force</nobr></td>
+		</tr><tr style="color:#000066;background-color:buttonface;border-color:LightGrey;border-width:1px;border-style:Dotted;">
+			<td><nobr><a href="http://www.itu.int/itu-t/recommendations/rec.aspx?id=4010" title="See more details">Z.500 (05/1997)</a></nobr></td><td>Framework on formal methods in conformance testing</td><td align="center"><nobr>In force</nobr></td>
+		</tr>
+	</table>
+</div>
